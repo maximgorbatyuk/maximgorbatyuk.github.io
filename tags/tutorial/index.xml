@@ -13,8 +13,8 @@
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/development/2021-02-20-snake-case-and-asp-net-core/</guid>
-      <description>I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from camelCase to snake_case.
-The standard way to accept and return data in ASP.NET world is camel case. The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues.</description>
+      <description>The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from camelCase to snake_case.
+The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues.</description>
     </item>
     
   </channel>
