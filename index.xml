@@ -6,7 +6,17 @@
     <description>Recent content on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A little life hack when you work with Azure Service Bus and ASP.NET Core</title>
+      <link>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
+      <description>If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?
+Well, I know a minor life hack for my teams.</description>
+    </item>
+    
     <item>
       <title>How to accept and return snake case formatted JSON in ASP Web API</title>
       <link>https://maximgorbatyuk.github.io/blog/development/2021-02-20-snake-case-and-asp-net-core/</link>

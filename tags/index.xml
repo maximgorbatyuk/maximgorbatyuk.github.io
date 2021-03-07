@@ -6,20 +6,47 @@
     <description>Recent content in Tags on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://maximgorbatyuk.github.io/tags/.net/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>asp.net</title>
+      <link>https://maximgorbatyuk.github.io/tags/asp.net/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/asp.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure</title>
+      <link>https://maximgorbatyuk.github.io/tags/azure/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>service bus</title>
+      <link>https://maximgorbatyuk.github.io/tags/service-bus/</link>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/service-bus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>tutorial</title>
       <link>https://maximgorbatyuk.github.io/tags/tutorial/</link>
-      <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/tutorial/</guid>
       <description></description>
