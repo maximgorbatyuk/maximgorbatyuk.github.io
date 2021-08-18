@@ -6,7 +6,17 @@
     <description>Recent content in opinion on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Главная задача тимлида на проекте</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</guid>
+      <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
+На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
+    </item>
+    
     <item>
       <title>Знания сами по себе как аргумент в споре</title>
       <link>https://maximgorbatyuk.github.io/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</link>

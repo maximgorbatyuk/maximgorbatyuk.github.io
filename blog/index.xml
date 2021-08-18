@@ -6,7 +6,17 @@
     <description>Recent content in Blogs on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Главная задача тимлида на проекте</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</link>
+      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</guid>
+      <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
+На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
+    </item>
+    
     <item>
       <title>A little life hack when you work with Azure Service Bus and ASP.NET Core</title>
       <link>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
