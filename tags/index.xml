@@ -6,20 +6,11 @@
     <description>Recent content in Tags on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>development</title>
-      <link>https://maximgorbatyuk.github.io/tags/development/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>employment</title>
       <link>https://maximgorbatyuk.github.io/tags/employment/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/employment/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>original</title>
       <link>https://maximgorbatyuk.github.io/tags/original/</link>
-      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/original/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://maximgorbatyuk.github.io/tags/development/</link>
+      <pubDate>Sun, 05 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/development/</guid>
       <description></description>
     </item>
     
