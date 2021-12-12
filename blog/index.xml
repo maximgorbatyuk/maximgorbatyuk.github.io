@@ -6,7 +6,17 @@
     <description>Recent content in Blogs on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Do not forget about Async postfix</title>
+      <link>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</link>
+      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</guid>
+      <description>There is a recommendation: to write a postfix &amp;ldquo;&amp;hellip;Async&amp;rdquo; in the end of async methods in .NET. I always follow this rule, and also I recommend everyone to do this as well as I do. In this article, I want to share my thoughts why this is important rule when you dela with asynchronous programming.
+You can call the async method withour await and it will not throw any error In my opinion, it is a problem that .</description>
+    </item>
+    
     <item>
       <title>На что стоит обратить внимание во время технических интервью</title>
       <link>https://maximgorbatyuk.github.io/blog/employment/2021-11-02-tech-interview-essentials/</link>
