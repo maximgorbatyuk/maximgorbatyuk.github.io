@@ -480,21 +480,21 @@ Self-apprisal Как оцениает кандидат свои действия
     </item>
     
     <item>
+      <title>About me</title>
+      <link>https://maximgorbatyuk.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/about/</guid>
+      <description>about</description>
+    </item>
+    
+    <item>
       <title>Archive</title>
       <link>https://maximgorbatyuk.github.io/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/archive/</guid>
       <description>archive</description>
-    </item>
-    
-    <item>
-      <title>Maxim Gorbatyuk</title>
-      <link>https://maximgorbatyuk.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/about/</guid>
-      <description>.d-inline-block { display: inline-block; } .mt-2 { margin-top: 1.2rem; } .mt-1 { margin-top: 1.1rem; } .social-buttons-wrapper { margin-top: 1.2rem; margin-bottom: 1.2rem; display: flex; display: -webkit-flex; justify-content: space-between; } .social-buttons-wrapper a { border-bottom: 1px solid #eb6a00; text-decoration: none; box-shadow: none; } .social-buttons-wrapper a:hover { text-decoration: none; border-bottom: 1px solid #333; box-shadow: none; } .badges { display: flex; display: -webkit-flex; justify-content: space-between; } .badge { cursor: pointer; display: inline-block; border-radius: 4px; padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px; border: 1px solid #333; margin-right: 12px; } .</description>
     </item>
     
     <item>
