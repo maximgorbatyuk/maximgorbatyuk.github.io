@@ -6,11 +6,11 @@
     <description>Recent content in Tags on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>.net</title>
       <link>https://maximgorbatyuk.github.io/tags/.net/</link>
-      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/.net/</guid>
       <description></description>
@@ -19,9 +19,18 @@
     <item>
       <title>opinion</title>
       <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
-      <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tutorial</title>
+      <link>https://maximgorbatyuk.github.io/tags/tutorial/</link>
+      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
@@ -94,15 +103,6 @@
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/service-bus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>https://maximgorbatyuk.github.io/tags/tutorial/</link>
-      <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/tutorial/</guid>
       <description></description>
     </item>
     
