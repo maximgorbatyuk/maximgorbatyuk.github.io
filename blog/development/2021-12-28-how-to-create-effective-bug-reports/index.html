@@ -117,18 +117,18 @@ December 28, 2021&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Maxim Gorbatyuk
 </ul>
 <p>А если уточняющие вопросы все же появились, то необходимо записать эту информацию в баг-репорт. Тогда обсуждение не потеряется из виду и будет сохранено в общей проектной документации.</p>
 <p>Таким образом, хороший баг-репорт будет выглядеть примерно так:</p>
-<pre><code>Title: There is no password security requirement error on the register page
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-plaintext data-lang=plaintext>Title: There is no password security requirement error on the register page
 
 Steps to reproduce:
 
 1. Go to https://example.com/regitster
-2. Type login: 'Vasya', password: 'qwerty'
+2. Type login: &#39;Vasya&#39;, password: &#39;qwerty&#39;
 3. Click on the Submit button
 
-Expected: Backend validation error, 400 http status response. Message is &quot;Your password must contain at least 1 capital char and 1 digit&quot;
+Expected: Backend validation error, 400 http status response. Message is &#34;Your password must contain at least 1 capital char and 1 digit&#34;
 
 Actual: The user account is being created. No backend errors appear
-</code></pre><p>Таким образом, любой разработчик команды может взять задачу в разработку, даже если не он писал формы авторизации. Понятен ожидаемый результат и нет необходимости обращаться за разъяснением к оригинальной задаче разработки формы регистрации, автору или бизнес-аналитику. Может показаться, что я хочу переложить работу по прояснению деталей с плечей разработчиков на тестировщиков, ведь ожидаемый результат разработчик сам может посмотреть в требованиях. Однако автор баг-репорта уже знает, как нужно, и может сразу написать об этом, а потом на ретроспективе уже команда обсудит, как не допускать повторений таких случаев.</p>
+</code></pre></div><p>Таким образом, любой разработчик команды может взять задачу в разработку, даже если не он писал формы авторизации. Понятен ожидаемый результат и нет необходимости обращаться за разъяснением к оригинальной задаче разработки формы регистрации, автору или бизнес-аналитику. Может показаться, что я хочу переложить работу по прояснению деталей с плечей разработчиков на тестировщиков, ведь ожидаемый результат разработчик сам может посмотреть в требованиях. Однако автор баг-репорта уже знает, как нужно, и может сразу написать об этом, а потом на ретроспективе уже команда обсудит, как не допускать повторений таких случаев.</p>
 </div>
 <footer class=post-footer>
 <ul class=post-tags>
