@@ -6,7 +6,17 @@
     <description>Recent content in .net on Maxim Gorbatyuk blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как создавать эффективные баг-репорты</title>
+      <link>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</guid>
+      <description>Хороший баг-репорт – понятный, прозрачный, содержит в себе все, что потребуется для решения проблемы в проекте. Написать такой нетрудно. При составлении важно выложить всю необходимую информацию из своей головы в тикет в Jira, и тогда вопросы разработчики не будут спрашивать “очевидные вещи”.
+Баг-репорты составлять — тоже навык, который нужно развивать. Уметь донести свою мысль до другого человека - полезный навык не только для тестировщиков, но и разработчиков тоже. Проектные менеджеры — разработчикам, фронтендеры — бэкендерам, тестировщики — всем.</description>
+    </item>
+    
     <item>
       <title>How to integrate Identity Server into your web application</title>
       <link>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</link>
