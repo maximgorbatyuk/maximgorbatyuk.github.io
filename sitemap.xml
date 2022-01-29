@@ -2,19 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maximgorbatyuk.github.io/blog/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/employment/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/interview/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-my-worts-interviews/</loc>
+    <lastmod>2022-01-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/.net/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maximgorbatyuk.github.io/blog/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/opinion/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</loc>
@@ -28,9 +37,6 @@
   </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</loc>
     <lastmod>2021-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/employment/</loc>
-    <lastmod>2021-11-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/original/</loc>
     <lastmod>2021-11-02T00:00:00+00:00</lastmod>
@@ -126,9 +132,6 @@
     <lastmod>2020-03-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/hr/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/interview/</loc>
     <lastmod>2020-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/management/2020-03-05-my-experience-of-interviews/</loc>
