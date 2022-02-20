@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>tutorial on Maxim Gorbatyuk blog</title>
     <link>https://maximgorbatyuk.github.io/tags/tutorial/</link>
     <description>Recent content in tutorial on Maxim Gorbatyuk blog</description>
+    <image>
+      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
+      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +17,7 @@
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</guid>
-      <description>Let’s imagine you have a web application built as a monolith and you want to introduce microservices. Or you may have several clients connected to your backend solution: mobile app, SPA, devices, etc. One of the first tasks that you have to solve is integrating authentication and authorization. In my opinion, one of the simplest ways is integrating SSO (Single-Sign-On system) into your application.
-There is an open-source ready-to-use product IdentityServer4 which implements OpenID Connect and OAuth2.</description>
+      <description>There is a tutorial how to integrate and use IdentityServer4 in your web application</description>
     </item>
     
     <item>

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Maxim Gorbatyuk blog</title>
     <link>https://maximgorbatyuk.github.io/</link>
     <description>Recent content on Maxim Gorbatyuk blog</description>
+    <image>
+      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
+      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +17,7 @@
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</guid>
-      <description>Я проводил технические собеседования во всех компаниях, где работал. Чаще всего это были собеседования, где я должен был сделать срез знаний специалиста, чтобы решение о найме принимал менеджер. Также проводил собеседования, где сам решал, продолжать ли процесс найма сотрудника. И я заметил, что иногда начинающие разработчики задают в конце интервью вопрос “Ну, как вам?” или “как я прошел собес?” На мой взгляд, этот вопрос бессмысленный.
-Во-первых, навряд ли интервьюер ответит честно.</description>
+      <description>Бывает, что кандидаты спрашивают после собеседования мое мнение, понравилось ли оно мне. Я думаю, что этот вопрос бесмыссленный, и в статье я расскажу почему.</description>
     </item>
     
     <item>
@@ -23,8 +26,7 @@
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</guid>
-      <description>Мне нравится проводить и проходить собеседования. Это прекрасная возможность познакомиться не только с новыми людьми, но и с другими подходами к работе. Какие-то подслушанные практики я применял у себя в проектах, каким-то находил очередное подтверждение, почему они не работают.
-Как интервьюер, я стараюсь сделать собеседование максимально полезным для кандидата. Во-первых, у него не останется чувство, что он отдал энергию впустую. Во вторых, даже если сейчас мы не договоримся, то впечатление о компании и людях у кандидата останется положительным.</description>
+      <description>Статья о том, каким должны быть технические собеседования и какими они точно не должны быть</description>
     </item>
     
     <item>
@@ -33,8 +35,7 @@
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</guid>
-      <description>Хороший баг-репорт – понятный, прозрачный, содержит в себе все, что потребуется для решения проблемы в проекте. Написать такой нетрудно. При составлении важно выложить всю необходимую информацию из своей головы в тикет в Jira, и тогда вопросы разработчики не будут спрашивать “очевидные вещи”.
-Баг-репорты составлять — тоже навык, который нужно развивать. Уметь донести свою мысль до другого человека - полезный навык не только для тестировщиков, но и разработчиков тоже. Проектные менеджеры — разработчикам, фронтендеры — бэкендерам, тестировщики — всем.</description>
+      <description>Хорошо описанный баг-репорт значительно сокращает время на поиск решения. А вот о том, как написать такой баг-репорт, я напишу в этой статье</description>
     </item>
     
     <item>
@@ -43,8 +44,7 @@
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</guid>
-      <description>Let’s imagine you have a web application built as a monolith and you want to introduce microservices. Or you may have several clients connected to your backend solution: mobile app, SPA, devices, etc. One of the first tasks that you have to solve is integrating authentication and authorization. In my opinion, one of the simplest ways is integrating SSO (Single-Sign-On system) into your application.
-There is an open-source ready-to-use product IdentityServer4 which implements OpenID Connect and OAuth2.</description>
+      <description>There is a tutorial how to integrate and use IdentityServer4 in your web application</description>
     </item>
     
     <item>
@@ -53,8 +53,7 @@ There is an open-source ready-to-use product IdentityServer4 which implements Op
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</guid>
-      <description>There is a recommendation: to write a postfix &amp;ldquo;&amp;hellip;Async&amp;rdquo; at the end of async methods in .NET. I always follow this rule, and also I recommend everyone to do this as well as I do. In this article, I want to share my thoughts on why this is an important rule when you deal with asynchronous programming.
-You can call the async method without await and it will not throw any error In my opinion, it is a problem that .</description>
+      <description>You should always write Async postifx in the end of the async methods, and here I will explain you why</description>
     </item>
     
     <item>
@@ -525,26 +524,10 @@ Self-apprisal Как оцениает кандидат свои действия
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/about/</guid>
-      <description>about</description>
+      <description>Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life.</description>
     </item>
     
-    <item>
-      <title>Archive</title>
-      <link>https://maximgorbatyuk.github.io/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/archive/</guid>
-      <description>archive</description>
-    </item>
     
-    <item>
-      <title>Search</title>
-      <link>https://maximgorbatyuk.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/search/</guid>
-      <description>search</description>
-    </item>
     
   </channel>
 </rss>

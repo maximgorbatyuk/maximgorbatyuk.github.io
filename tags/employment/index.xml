@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>employment on Maxim Gorbatyuk blog</title>
     <link>https://maximgorbatyuk.github.io/tags/employment/</link>
     <description>Recent content in employment on Maxim Gorbatyuk blog</description>
+    <image>
+      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
+      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/employment/index.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +17,7 @@
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</guid>
-      <description>Я проводил технические собеседования во всех компаниях, где работал. Чаще всего это были собеседования, где я должен был сделать срез знаний специалиста, чтобы решение о найме принимал менеджер. Также проводил собеседования, где сам решал, продолжать ли процесс найма сотрудника. И я заметил, что иногда начинающие разработчики задают в конце интервью вопрос “Ну, как вам?” или “как я прошел собес?” На мой взгляд, этот вопрос бессмысленный.
-Во-первых, навряд ли интервьюер ответит честно.</description>
+      <description>Бывает, что кандидаты спрашивают после собеседования мое мнение, понравилось ли оно мне. Я думаю, что этот вопрос бесмыссленный, и в статье я расскажу почему.</description>
     </item>
     
     <item>
@@ -23,8 +26,7 @@
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</guid>
-      <description>Мне нравится проводить и проходить собеседования. Это прекрасная возможность познакомиться не только с новыми людьми, но и с другими подходами к работе. Какие-то подслушанные практики я применял у себя в проектах, каким-то находил очередное подтверждение, почему они не работают.
-Как интервьюер, я стараюсь сделать собеседование максимально полезным для кандидата. Во-первых, у него не останется чувство, что он отдал энергию впустую. Во вторых, даже если сейчас мы не договоримся, то впечатление о компании и людях у кандидата останется положительным.</description>
+      <description>Статья о том, каким должны быть технические собеседования и какими они точно не должны быть</description>
     </item>
     
     <item>
