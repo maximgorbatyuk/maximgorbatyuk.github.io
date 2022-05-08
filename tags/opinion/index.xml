@@ -10,7 +10,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Конфликт в проекте – качественный продукт</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</guid>
+      <description>Только здоровый конфликт ведет к развитию системы, будь то айти-проект, строительство дома или устройство государства и общества. В системе, где элементы находятся в состоянии спокойствия, движение останавливается. Все довольны всем, что имеют на данный момент.
+Для начала стоит прояснить, что такое “здоровый конфликт”. Здоровый конфликт (далее “конфликт”) - это противостояние двух противоположных интересов для достижения результата между ними где-то посередине, и при этом участники конфликта не переходят в прямую конфротацию. Люди понимают, что конфликт нужен для достижения результата и не переходят на личности.</description>
+    </item>
+    
     <item>
       <title>Как создавать эффективные баг-репорты</title>
       <link>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</link>
