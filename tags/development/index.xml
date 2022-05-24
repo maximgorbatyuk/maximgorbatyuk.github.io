@@ -31,31 +31,6 @@
     </item>
     
     <item>
-      <title>Не думайте о качестве, думайте о скорости. Конспект доклада Егора Бугаенко</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2019-10-27-think-about-speed-not-quality/</link>
-      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/blog/development/2019-10-27-think-about-speed-not-quality/</guid>
-      <description>Источник: Видео-доклад
- Егор считает, что разработчики должны думать в первую очередь о скорости, а не о качестве кода.
- Mistakes must be forgivable, not enough code - not
- А как же качество написанного? Многие считают, что качество кода низкое в целом. Но кто виноват в этом? Егор считает, что сами программисты и виновны. Можно ли его улучшить? Возможно. Есть устойчивое мнение, что хороший программист отличается от плохого тем, что он пишет код без багов.</description>
-    </item>
-    
-    <item>
-      <title>Не забудьте отписаться. Subject Subscribtions в Angular и RxJS</title>
-      <link>https://maximgorbatyuk.github.io/blog/technologies/2019-09-29-you-shoul-destroy-subsribtions-in-angular/</link>
-      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/blog/technologies/2019-09-29-you-shoul-destroy-subsribtions-in-angular/</guid>
-      <description>Источник: https://brianflove.com
- Зачем Когда ты реализуешь свой компонент с участием подписок на Subject, то ты должен написать и отмену подписки, иначе будут утечеки памяти.
-Даже если зайти в описание метода ngOnDestroy, то мы увидим рекомендацию для этого:
- ngOnDestroy(): Cleanup just before Angular destroys the directive/component. Unsubscribe observables and detach event handlers to avoid memory leaks.
- В общем, ответ на вопрос &amp;ldquo;Когда нам лучше всего отписываться&amp;rdquo; у нас есть: мы пишем код отмены подписок в реализацию метода ngOnDestroy, чтобы она была запущена перед уничтожением компонента.</description>
-    </item>
-    
-    <item>
       <title>Что я должен спросить у своей будущей команды. The Joel test.</title>
       <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
