@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>time management on Maxim Gorbatyuk blog</title>
+    <link>https://maximgorbatyuk.github.io/tags/time-management/</link>
+    <description>Recent content in time management on Maxim Gorbatyuk blog</description>
+    <image>
+      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
+      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/time-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Тайм-менеджмент для студентов</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2022-11-01-time-management-for-students/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2022-11-01-time-management-for-students/</guid>
+      <description>Тайм-менеджмента нет, есть прокрастинация – откладывание дел на потом. Поговорим о способах бороться с ней.</description>
+    </item>
+    
+  </channel>
+</rss>

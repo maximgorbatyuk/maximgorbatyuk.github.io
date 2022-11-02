@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>opinion</title>
+      <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time management</title>
+      <link>https://maximgorbatyuk.github.io/tags/time-management/</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/time-management/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>development</title>
       <link>https://maximgorbatyuk.github.io/tags/development/</link>
@@ -44,15 +62,6 @@
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opinion</title>
-      <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
       <description></description>
     </item>
     
