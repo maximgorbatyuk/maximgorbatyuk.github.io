@@ -10,13 +10,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>opinion</title>
       <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
-      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teamlead</title>
+      <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/teamlead/</guid>
       <description></description>
     </item>
     
@@ -107,15 +116,6 @@
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teamlead</title>
-      <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
-      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/teamlead/</guid>
       <description></description>
     </item>
     

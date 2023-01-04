@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Совету начинающему тимлиду</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
+      <description>Когда разработчик становится тимлидом, он может еще по-прежнему заниматься разработкой, забывая об остальных задачах тимлида. Нужно менять фокус внимания, как бы ни хотелось писать код дальше. Я поделюсь парой советов начинающим тимлидам, какие шаги нужно предпринять в первую очередь, чтобы старт руководства командой прошел легче и с меньшим стрессом</description>
+    </item>
+    
     <item>
       <title>Главная задача тимлида на проекте</title>
       <link>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</link>

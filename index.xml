@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Совету начинающему тимлиду</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
+      <description>Когда разработчик становится тимлидом, он может еще по-прежнему заниматься разработкой, забывая об остальных задачах тимлида. Нужно менять фокус внимания, как бы ни хотелось писать код дальше. Я поделюсь парой советов начинающим тимлидам, какие шаги нужно предпринять в первую очередь, чтобы старт руководства командой прошел легче и с меньшим стрессом</description>
+    </item>
+    
     <item>
       <title>Тайм-менеджмент для студентов</title>
       <link>https://maximgorbatyuk.github.io/blog/opinion/2022-11-01-time-management-for-students/</link>
@@ -340,16 +349,6 @@ Self-apprisal Как оцениает кандидат свои действия
       <guid>https://maximgorbatyuk.github.io/blog/videos/2019-09-08-video-conference-feedback-about/</guid>
       <description>Ссылка на видеозапись выступления про обратную связь в компании
 Презентация</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
-      <description>Совету начинающему тимлиду 1. Ты - не разработчик Время, когда можно было несколько часов подряд кодить, закончилось. Теперь твоя личка в распоряжении ПМа, продакта, бизнес-аналитика, тестировщиков и разработчиков. У тимлида всегда хотят что-то узнать, посоветоваться с ним, согласовать решение, пожаловаться на товарища. Молодому тимлиду нужно быть готовым к этому и расставлять приоритет.
-Цель разработчика - закрыть задачу, цель тимлида же - закрыть (под)проект, и сюда включена работа с людьми в том числе: отстаивание интересов, найм, собеседования, оценка перформанса ребят в команде, увольнение.</description>
     </item>
     
     <item>
