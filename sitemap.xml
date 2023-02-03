@@ -2,16 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maximgorbatyuk.github.io/tags/.net/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/github/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/blog/development/2023-02-03-auto-nuget-version-increase/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/opinion/</loc>
-    <lastmod>2023-01-03T00:00:00+00:00</lastmod>
+    <loc>https://maximgorbatyuk.github.io/tags/nuget/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/tutorial/</loc>
+    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/opinion/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/teamlead/</loc>
@@ -68,16 +83,10 @@
     <loc>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/.net/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</loc>
-    <lastmod>2021-12-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/tutorial/</loc>
     <lastmod>2021-12-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</loc>
@@ -205,6 +214,8 @@
     <loc>https://maximgorbatyuk.github.io/archive/</loc>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/categories/</loc>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/ci/cd/</loc>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/speaking/</loc>
   </url><url>
