@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maximgorbatyuk.github.io/tags/.net/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maximgorbatyuk.github.io/blog/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/book/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/blog/opinion/2023-02-08-speaking-about-review/</loc>
+    <lastmod>2023-02-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://maximgorbatyuk.github.io/tags/.net/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/github/</loc>
@@ -14,13 +26,7 @@
     <loc>https://maximgorbatyuk.github.io/blog/development/2023-02-03-auto-nuget-version-increase/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://maximgorbatyuk.github.io/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/nuget/</loc>
-    <lastmod>2023-02-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://maximgorbatyuk.github.io/tags/</loc>
     <lastmod>2023-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://maximgorbatyuk.github.io/tags/tutorial/</loc>

@@ -10,7 +10,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Говори красиво. Выступай легко. Шпаргалка</title>
+      <link>https://maximgorbatyuk.github.io/blog/opinion/2023-02-08-speaking-about-review/</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/opinion/2023-02-08-speaking-about-review/</guid>
+      <description>Этот текст - шпаргалка по книге &amp;ldquo;Говори красиво. Выступай легко&amp;rdquo; от Нины Зверевой и Светланы Иконниковой. Я считаю, что книга очень полезная, но в ней много информации, которую легко забыть. Поэтому я решил сделать шпаргалку, чтобы в будущем можно было быстро вспомнить основные моменты.
+Часть 1. Сторителинг В любой истории есть герой. Во время истории с ним что-то случается, причем неожиданно. Плохое, хорошее, веселое, трагическое - любое.
+Нельзя Можно Рассказывать истории долго Уложить историю в 1-2 минуты Ничего не сообщить о герое - какой он, чего хочет, как выглядит В начале истории презентовать главного героя В самом начале рассказать концовку Держать интригу 10 инструментов рассказчика: Внятная речь Интонация Ваши глаза.</description>
+    </item>
+    
     <item>
       <title>How to increase nuget package version automatically with Github Actions</title>
       <link>https://maximgorbatyuk.github.io/blog/development/2023-02-03-auto-nuget-version-increase/</link>
