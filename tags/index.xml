@@ -10,7 +10,43 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>development</title>
+      <link>https://maximgorbatyuk.github.io/tags/development/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processes</title>
+      <link>https://maximgorbatyuk.github.io/tags/processes/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teamlead</title>
+      <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/teamlead/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>book</title>
       <link>https://maximgorbatyuk.github.io/tags/book/</link>
@@ -57,38 +93,11 @@
     </item>
     
     <item>
-      <title>opinion</title>
-      <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teamlead</title>
-      <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/teamlead/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>time management</title>
       <link>https://maximgorbatyuk.github.io/tags/time-management/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/time-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://maximgorbatyuk.github.io/tags/development/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/development/</guid>
       <description></description>
     </item>
     
@@ -188,15 +197,6 @@
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/ba/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>processes</title>
-      <link>https://maximgorbatyuk.github.io/tags/processes/</link>
-      <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/processes/</guid>
       <description></description>
     </item>
     

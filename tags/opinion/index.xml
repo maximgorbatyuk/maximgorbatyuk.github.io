@@ -10,7 +10,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Любые процессы разработки должны быть явными</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</link>
+      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</guid>
+      <description>Картинка взята отсюда
+Очевидные вещи нужно проговаривать
+Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
+Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены.</description>
+    </item>
+    
     <item>
       <title>Совету начинающему тимлиду</title>
       <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
