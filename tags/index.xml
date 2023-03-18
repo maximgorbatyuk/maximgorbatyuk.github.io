@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>.net</title>
+      <link>https://maximgorbatyuk.github.io/tags/.net/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/.net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elegant_objects</title>
+      <link>https://maximgorbatyuk.github.io/tags/elegant_objects/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/elegant_objects/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>development</title>
       <link>https://maximgorbatyuk.github.io/tags/development/</link>
@@ -53,15 +71,6 @@
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net</title>
-      <link>https://maximgorbatyuk.github.io/tags/.net/</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/.net/</guid>
       <description></description>
     </item>
     
