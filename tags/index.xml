@@ -10,7 +10,34 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>code_quality</title>
+      <link>https://maximgorbatyuk.github.io/tags/code_quality/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/code_quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>management</title>
+      <link>https://maximgorbatyuk.github.io/tags/management/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processes</title>
+      <link>https://maximgorbatyuk.github.io/tags/processes/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/processes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>.net</title>
       <link>https://maximgorbatyuk.github.io/tags/.net/</link>
@@ -21,11 +48,29 @@
     </item>
     
     <item>
-      <title>elegant_objects</title>
-      <link>https://maximgorbatyuk.github.io/tags/elegant_objects/</link>
+      <title>anti_patterns</title>
+      <link>https://maximgorbatyuk.github.io/tags/anti_patterns/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/elegant_objects/</guid>
+      <guid>https://maximgorbatyuk.github.io/tags/anti_patterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testing</title>
+      <link>https://maximgorbatyuk.github.io/tags/testing/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unit_testing</title>
+      <link>https://maximgorbatyuk.github.io/tags/unit_testing/</link>
+      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/tags/unit_testing/</guid>
       <description></description>
     </item>
     
@@ -44,15 +89,6 @@
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>processes</title>
-      <link>https://maximgorbatyuk.github.io/tags/processes/</link>
-      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/processes/</guid>
       <description></description>
     </item>
     
@@ -242,15 +278,6 @@
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://maximgorbatyuk.github.io/tags/product-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://maximgorbatyuk.github.io/tags/management/</link>
-      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://maximgorbatyuk.github.io/tags/management/</guid>
       <description></description>
     </item>
     

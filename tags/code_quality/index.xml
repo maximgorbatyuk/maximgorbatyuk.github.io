@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>code_quality on mgorbatyuk.dev</title>
+    <link>https://maximgorbatyuk.github.io/tags/code_quality/</link>
+    <description>Recent content in code_quality on mgorbatyuk.dev</description>
+    <image>
+      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
+      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/code_quality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code quality first vs business value first</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</guid>
+      <description>При разработке софта мы думаем о том, какую ценность приносит продукт пользователям. Но какую бы ценность не закладывали авторы, если продукт выдает ошибку за ошибкой, то пользователи и оценить-то эту ценность не смогут. На чем же фокусироваться разработчикам: на качестве или на бизнес-ценности?</description>
+    </item>
+    
+  </channel>
+</rss>

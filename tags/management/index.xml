@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Code quality first vs business value first</title>
+      <link>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</link>
+      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</guid>
+      <description>При разработке софта мы думаем о том, какую ценность приносит продукт пользователям. Но какую бы ценность не закладывали авторы, если продукт выдает ошибку за ошибкой, то пользователи и оценить-то эту ценность не смогут. На чем же фокусироваться разработчикам: на качестве или на бизнес-ценности?</description>
+    </item>
+    
     <item>
       <title>О социальном трудоустройстве</title>
       <link>https://maximgorbatyuk.github.io/blog/opinion/2020-02-27-social-employment-about/</link>
