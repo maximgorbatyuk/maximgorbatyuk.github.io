@@ -2,345 +2,345 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/</link>
+    <link>https://mgorbatyuk.dev/tags/</link>
     <description>Recent content in Tags on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>code_quality</title>
-      <link>https://maximgorbatyuk.github.io/tags/code_quality/</link>
+      <link>https://mgorbatyuk.dev/tags/code_quality/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/code_quality/</guid>
+      <guid>https://mgorbatyuk.dev/tags/code_quality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>management</title>
-      <link>https://maximgorbatyuk.github.io/tags/management/</link>
+      <link>https://mgorbatyuk.dev/tags/management/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/management/</guid>
+      <guid>https://mgorbatyuk.dev/tags/management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>processes</title>
-      <link>https://maximgorbatyuk.github.io/tags/processes/</link>
+      <link>https://mgorbatyuk.dev/tags/processes/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/processes/</guid>
+      <guid>https://mgorbatyuk.dev/tags/processes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.net</title>
-      <link>https://maximgorbatyuk.github.io/tags/.net/</link>
+      <link>https://mgorbatyuk.dev/tags/.net/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/.net/</guid>
+      <guid>https://mgorbatyuk.dev/tags/.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anti_patterns</title>
-      <link>https://maximgorbatyuk.github.io/tags/anti_patterns/</link>
+      <link>https://mgorbatyuk.dev/tags/anti_patterns/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/anti_patterns/</guid>
+      <guid>https://mgorbatyuk.dev/tags/anti_patterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testing</title>
-      <link>https://maximgorbatyuk.github.io/tags/testing/</link>
+      <link>https://mgorbatyuk.dev/tags/testing/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/testing/</guid>
+      <guid>https://mgorbatyuk.dev/tags/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unit_testing</title>
-      <link>https://maximgorbatyuk.github.io/tags/unit_testing/</link>
+      <link>https://mgorbatyuk.dev/tags/unit_testing/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/unit_testing/</guid>
+      <guid>https://mgorbatyuk.dev/tags/unit_testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>https://maximgorbatyuk.github.io/tags/development/</link>
+      <link>https://mgorbatyuk.dev/tags/development/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/development/</guid>
+      <guid>https://mgorbatyuk.dev/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opinion</title>
-      <link>https://maximgorbatyuk.github.io/tags/opinion/</link>
+      <link>https://mgorbatyuk.dev/tags/opinion/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/opinion/</guid>
+      <guid>https://mgorbatyuk.dev/tags/opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>teamlead</title>
-      <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
+      <link>https://mgorbatyuk.dev/tags/teamlead/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/teamlead/</guid>
+      <guid>https://mgorbatyuk.dev/tags/teamlead/</guid>
       <description></description>
     </item>
     
     <item>
       <title>book</title>
-      <link>https://maximgorbatyuk.github.io/tags/book/</link>
+      <link>https://mgorbatyuk.dev/tags/book/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/book/</guid>
+      <guid>https://mgorbatyuk.dev/tags/book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://maximgorbatyuk.github.io/tags/github/</link>
+      <link>https://mgorbatyuk.dev/tags/github/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/github/</guid>
+      <guid>https://mgorbatyuk.dev/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nuget</title>
-      <link>https://maximgorbatyuk.github.io/tags/nuget/</link>
+      <link>https://mgorbatyuk.dev/tags/nuget/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/nuget/</guid>
+      <guid>https://mgorbatyuk.dev/tags/nuget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tutorial</title>
-      <link>https://maximgorbatyuk.github.io/tags/tutorial/</link>
+      <link>https://mgorbatyuk.dev/tags/tutorial/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/tutorial/</guid>
+      <guid>https://mgorbatyuk.dev/tags/tutorial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>time management</title>
-      <link>https://maximgorbatyuk.github.io/tags/time-management/</link>
+      <link>https://mgorbatyuk.dev/tags/time-management/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/time-management/</guid>
+      <guid>https://mgorbatyuk.dev/tags/time-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>employment</title>
-      <link>https://maximgorbatyuk.github.io/tags/employment/</link>
+      <link>https://mgorbatyuk.dev/tags/employment/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/employment/</guid>
+      <guid>https://mgorbatyuk.dev/tags/employment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>original</title>
-      <link>https://maximgorbatyuk.github.io/tags/original/</link>
+      <link>https://mgorbatyuk.dev/tags/original/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/original/</guid>
+      <guid>https://mgorbatyuk.dev/tags/original/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>https://maximgorbatyuk.github.io/tags/project/</link>
+      <link>https://mgorbatyuk.dev/tags/project/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/project/</guid>
+      <guid>https://mgorbatyuk.dev/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>salary</title>
-      <link>https://maximgorbatyuk.github.io/tags/salary/</link>
+      <link>https://mgorbatyuk.dev/tags/salary/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/salary/</guid>
+      <guid>https://mgorbatyuk.dev/tags/salary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>interview</title>
-      <link>https://maximgorbatyuk.github.io/tags/interview/</link>
+      <link>https://mgorbatyuk.dev/tags/interview/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/interview/</guid>
+      <guid>https://mgorbatyuk.dev/tags/interview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project management</title>
-      <link>https://maximgorbatyuk.github.io/tags/project-management/</link>
+      <link>https://mgorbatyuk.dev/tags/project-management/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/project-management/</guid>
+      <guid>https://mgorbatyuk.dev/tags/project-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asp.net</title>
-      <link>https://maximgorbatyuk.github.io/tags/asp.net/</link>
+      <link>https://mgorbatyuk.dev/tags/asp.net/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/asp.net/</guid>
+      <guid>https://mgorbatyuk.dev/tags/asp.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>azure</title>
-      <link>https://maximgorbatyuk.github.io/tags/azure/</link>
+      <link>https://mgorbatyuk.dev/tags/azure/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/azure/</guid>
+      <guid>https://mgorbatyuk.dev/tags/azure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service bus</title>
-      <link>https://maximgorbatyuk.github.io/tags/service-bus/</link>
+      <link>https://mgorbatyuk.dev/tags/service-bus/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/service-bus/</guid>
+      <guid>https://mgorbatyuk.dev/tags/service-bus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>argument</title>
-      <link>https://maximgorbatyuk.github.io/tags/argument/</link>
+      <link>https://mgorbatyuk.dev/tags/argument/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/argument/</guid>
+      <guid>https://mgorbatyuk.dev/tags/argument/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ba</title>
-      <link>https://maximgorbatyuk.github.io/tags/ba/</link>
+      <link>https://mgorbatyuk.dev/tags/ba/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/ba/</guid>
+      <guid>https://mgorbatyuk.dev/tags/ba/</guid>
       <description></description>
     </item>
     
     <item>
       <title>movie</title>
-      <link>https://maximgorbatyuk.github.io/tags/movie/</link>
+      <link>https://mgorbatyuk.dev/tags/movie/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/movie/</guid>
+      <guid>https://mgorbatyuk.dev/tags/movie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motivation</title>
-      <link>https://maximgorbatyuk.github.io/tags/motivation/</link>
+      <link>https://mgorbatyuk.dev/tags/motivation/</link>
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/motivation/</guid>
+      <guid>https://mgorbatyuk.dev/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outsourcing</title>
-      <link>https://maximgorbatyuk.github.io/tags/outsourcing/</link>
+      <link>https://mgorbatyuk.dev/tags/outsourcing/</link>
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/outsourcing/</guid>
+      <guid>https://mgorbatyuk.dev/tags/outsourcing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>product development</title>
-      <link>https://maximgorbatyuk.github.io/tags/product-development/</link>
+      <link>https://mgorbatyuk.dev/tags/product-development/</link>
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/product-development/</guid>
+      <guid>https://mgorbatyuk.dev/tags/product-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cicd</title>
-      <link>https://maximgorbatyuk.github.io/tags/cicd/</link>
+      <link>https://mgorbatyuk.dev/tags/cicd/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/cicd/</guid>
+      <guid>https://mgorbatyuk.dev/tags/cicd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pipeline</title>
-      <link>https://maximgorbatyuk.github.io/tags/pipeline/</link>
+      <link>https://mgorbatyuk.dev/tags/pipeline/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/pipeline/</guid>
+      <guid>https://mgorbatyuk.dev/tags/pipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>thoughts</title>
-      <link>https://maximgorbatyuk.github.io/tags/thoughts/</link>
+      <link>https://mgorbatyuk.dev/tags/thoughts/</link>
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/thoughts/</guid>
+      <guid>https://mgorbatyuk.dev/tags/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>translation</title>
-      <link>https://maximgorbatyuk.github.io/tags/translation/</link>
+      <link>https://mgorbatyuk.dev/tags/translation/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/translation/</guid>
+      <guid>https://mgorbatyuk.dev/tags/translation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>copypaste</title>
-      <link>https://maximgorbatyuk.github.io/tags/copypaste/</link>
+      <link>https://mgorbatyuk.dev/tags/copypaste/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/copypaste/</guid>
+      <guid>https://mgorbatyuk.dev/tags/copypaste/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>https://maximgorbatyuk.github.io/tags/video/</link>
+      <link>https://mgorbatyuk.dev/tags/video/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/video/</guid>
+      <guid>https://mgorbatyuk.dev/tags/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ci/cd</title>
-      <link>https://maximgorbatyuk.github.io/tags/ci/cd/</link>
+      <link>https://mgorbatyuk.dev/tags/ci/cd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/tags/ci/cd/</guid>
+      <guid>https://mgorbatyuk.dev/tags/ci/cd/</guid>
       <description></description>
     </item>
     

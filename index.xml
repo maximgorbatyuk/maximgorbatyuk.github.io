@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/</link>
+    <link>https://mgorbatyuk.dev/</link>
     <description>Recent content on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code quality first vs business value first</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-03-20-code-quality-first/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</guid>
       <description>При разработке софта мы думаем о том, какую ценность приносит продукт пользователям. Но какую бы ценность не закладывали авторы, если продукт выдает ошибку за ошибкой, то пользователи и оценить-то эту ценность не смогут. На чем же фокусироваться разработчикам: на качестве или на бизнес-ценности?</description>
     </item>
     
     <item>
       <title>Вредные советы по тестированию программ</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2023-03-04-unit-testing-anti-patterns/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2023-03-04-unit-testing-anti-patterns/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2023-03-04-unit-testing-anti-patterns/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2023-03-04-unit-testing-anti-patterns/</guid>
       <description>Тестировать программы, которые пишем - долго, нудно и муторно. Поди разбери, что хочет тимлид. Хорошо, что люди придумали много антипаттернов, как можно и юнит-тесты написать, и команду свою запутать. Вроде тесты написаны, а что проверяют и как - не поймешь и не разберешь. В статье ниже я дам вам несколько вредных советов, как можно пошутить над тиммейтами с помощью юнит-тестов.</description>
     </item>
     
     <item>
       <title>Любые процессы разработки должны быть явными</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</guid>
       <description>Картинка взята отсюда
 Очевидные вещи нужно проговаривать
 Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
@@ -43,10 +43,10 @@
     
     <item>
       <title>Говори красиво. Выступай легко. Шпаргалка</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2023-02-08-speaking-about-review/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2023-02-08-speaking-about-review/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2023-02-08-speaking-about-review/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2023-02-08-speaking-about-review/</guid>
       <description>Этот текст - шпаргалка по книге &amp;ldquo;Говори красиво. Выступай легко&amp;rdquo; от Нины Зверевой и Светланы Иконниковой. Я считаю, что книга очень полезная, но в ней много информации, которую легко забыть. Поэтому я решил сделать шпаргалку, чтобы в будущем можно было быстро вспомнить основные моменты.
 Часть 1. Сторителинг В любой истории есть герой. Во время истории с ним что-то случается, причем неожиданно. Плохое, хорошее, веселое, трагическое - любое.
 Нельзя Можно Рассказывать истории долго Уложить историю в 1-2 минуты Ничего не сообщить о герое - какой он, чего хочет, как выглядит В начале истории презентовать главного героя В самом начале рассказать концовку Держать интригу 10 инструментов рассказчика: Внятная речь Интонация Ваши глаза.</description>
@@ -54,37 +54,37 @@
     
     <item>
       <title>How to increase nuget package version automatically with Github Actions</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2023-02-03-auto-nuget-version-increase/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2023-02-03-auto-nuget-version-increase/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</guid>
       <description>When you push new nugets to nuget.org, you need to increase the version of the package. This article describes how to do it automatically with Github Actions.</description>
     </item>
     
     <item>
       <title>Совету начинающему тимлиду</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
       <description>Когда разработчик становится тимлидом, он может еще по-прежнему заниматься разработкой, забывая об остальных задачах тимлида. Нужно менять фокус внимания, как бы ни хотелось писать код дальше. Я поделюсь парой советов начинающим тимлидам, какие шаги нужно предпринять в первую очередь, чтобы старт руководства командой прошел легче и с меньшим стрессом</description>
     </item>
     
     <item>
       <title>Тайм-менеджмент для студентов</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2022-11-01-time-management-for-students/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2022-11-01-time-management-for-students/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2022-11-01-time-management-for-students/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2022-11-01-time-management-for-students/</guid>
       <description>Тайм-менеджмента нет, есть прокрастинация – откладывание дел на потом. Поговорим о способах бороться с ней.</description>
     </item>
     
     <item>
       <title>Сколько времени работать на одном проекте?</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
       <description>Как часто стоит менять проекты? Какой период времени смены работы можно считать некой нормой? На эти рассуждения меня натолкнуло обуждение в одном из чатов разработчиков. Вопрос действительно интересный.
 Disclaimer Все данные в статье являются моими личными оценками и не являются истиной в последней инстанции. Смена проетка - не всегда смена работодателя. А иногда даже и новая роль на том же проекте. TL;DR: Адекватные сроки:
 Грейд/роль Срок Джун 0.5 - 1 год Миддл 1 - 2 года Сеньор / лид 2 - 3 года Тимлид 2+ лет ПМ 2+ лет Но это не точно.</description>
@@ -92,180 +92,180 @@ Disclaimer Все данные в статье являются моими ли�
     
     <item>
       <title>Почему открытые зарплатные вилки – это хорошо</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2022-06-06-why-you-should-show-grade-salaries/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2022-06-06-why-you-should-show-grade-salaries/</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2022-06-06-why-you-should-show-grade-salaries/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2022-06-06-why-you-should-show-grade-salaries/</guid>
       <description>Открытые зарплатные вилки – это когда каждый миддл знает, сколько зарабатывают миддлы и другие грейды в той компании, где он работает. Работник видит возможности для роста и вознаграждение еще до того, как получил грейд. Можно ли сразу открыть вилки, если у вас отсутствуют процессы менторства, повышения грейда и помощи в подготовке к нему? Давайте разбираться</description>
     </item>
     
     <item>
       <title>Что такое хорошо и что такое плохо. Как не превратить собеседование в кошмар</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</guid>
       <description>Интервью – это стресс для всех его участников. Плохо проведенное интервью испортит впечатление о компании у кандидата. Однако сделать более эффективным собеседования не так уж и сложно, нужно лишь...</description>
     </item>
     
     <item>
       <title>Conflicts lead to high-quality products</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2022-05-09-conflicts-in-it-en/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2022-05-09-conflicts-in-it-en/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2022-05-09-conflicts-in-it-en/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2022-05-09-conflicts-in-it-en/</guid>
       <description>The only balance between interests leads to product version delivery which is the primary goal of the project processes. As much strong pressure will be applied from every side of impact, as much better quality the product will get. What conflicts I mean, you can find out in this article.</description>
     </item>
     
     <item>
       <title>Конфликт в проекте – качественный продукт</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2022-05-08-conflicts-in-it/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2022-05-08-conflicts-in-it/</guid>
       <description>В проекте конфликт присутствует между заказчиком и командой разработчиков, включая и проектного менеджера. Заказчик хочет сделать как можно больше задач за как можно меньшие деньги, а команда же хочет работать меньше и получить больше денег. И где-то посередине достигается баланс ресурсов и объема работ.</description>
     </item>
     
     <item>
       <title>Не спрашивай на собеседовании “Ну как, я подхожу?”</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</guid>
       <description>Бывает, что кандидаты спрашивают после собеседования мое мнение, понравилось ли оно мне. Я думаю, что этот вопрос бесмыссленный, и в статье я расскажу почему.</description>
     </item>
     
     <item>
       <title>О двух интервью, которые стали для меня примером</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</guid>
       <description>Статья о том, каким должны быть технические собеседования и какими они точно не должны быть</description>
     </item>
     
     <item>
       <title>Как создавать эффективные баг-репорты</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-12-28-how-to-create-effective-bug-reports/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-28-how-to-create-effective-bug-reports/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-12-28-how-to-create-effective-bug-reports/</guid>
       <description>Хорошо описанный баг-репорт значительно сокращает время на поиск решения. А вот о том, как написать такой баг-репорт, я напишу в этой статье</description>
     </item>
     
     <item>
       <title>How to integrate Identity Server into your web application</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-12-26-how-to-integrate-identity-server/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-26-how-to-integrate-identity-server/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-12-26-how-to-integrate-identity-server/</guid>
       <description>There is a tutorial how to integrate and use IdentityServer4 in your web application</description>
     </item>
     
     <item>
       <title>Do not forget about Async postfix</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-12-12-do-not-forget-about-async/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-12-12-do-not-forget-about-async/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-12-12-do-not-forget-about-async/</guid>
       <description>You should always write Async postifx in the end of the async methods, and here I will explain you why</description>
     </item>
     
     <item>
       <title>На что стоит обратить внимание во время технических интервью</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2021-11-02-tech-interview-essentials/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2021-11-02-tech-interview-essentials/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2021-11-02-tech-interview-essentials/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2021-11-02-tech-interview-essentials/</guid>
       <description>За время своей карьеры я провел много техничесикх собеседований. Почти в каждой компании я выступал в роли технического интервьюера. Довелось и быть тем, кто аппрувит кандидата на дальнейший этап найма. Мне нравится этот процесс, он позволяет держать теоретические знания в тонусе.
 Когда я сам выступаю в роли кандидата, я обращаю внимание на процесс интервью. В результате наблюдений я составил для себя несколько аспектов, которые позволяют сделать мне вывод о кандидате.</description>
     </item>
     
     <item>
       <title>Главная задача тимлида на проекте</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</guid>
       <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
 На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
     </item>
     
     <item>
       <title>A little life hack when you work with Azure Service Bus and ASP.NET Core</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
       <description>If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?
 Well, I know a minor life hack for my teams.</description>
     </item>
     
     <item>
       <title>How to accept and return snake case formatted JSON in ASP Web API</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-02-20-snake-case-and-asp-net-core/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-02-20-snake-case-and-asp-net-core/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</guid>
       <description>The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from camelCase to snake_case.
 The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues.</description>
     </item>
     
     <item>
       <title>Знания сами по себе как аргумент в споре</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</link>
       <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-09-15-knowledge-as-argue-arguement/</guid>
       <description>На днях посмотрел видео, где автор видео критикует книгу о &amp;ldquo;Мужском движении&amp;rdquo;. Книга, как и само мужское движение, так себе. Видео немного лучше, но тоже среднее, на мой взгляд. Но мой пост не об этом. Больше всего в видео меня зацепил этот момент, где автор берет факт из книги и разносит его в пух и прах, как он сам думает.
 Факт из книги: &amp;ldquo;&amp;hellip; в некоторых регионах России количество разводов достигает более ста процентов от количества заключенных браков&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Идеальный Бизнес-Аналитик глазами разработчика</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2020-09-07-ideal-ba/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2020-09-07-ideal-ba/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2020-09-07-ideal-ba/</guid>
       <description>Недавно я послушал подкаст &amp;ldquo;Идеальный бизнес-аналитик глазами разработчика&amp;rdquo; своего очень хорошего друга. Не со всеми тезисами я был согласен, однако подкаст побудил меня начать обсуждение с участниками подкаста. А потом еще и сам побывал в этом подкасте в качестве гостя.
 Чтобы понять, кто такой &amp;ldquo;идеальный аналитик&amp;rdquo;, важно определиться с набором требований. Что я жду от аналитика как разработчик? А как тимлид? А как менеджер проекта? Сколько людей, столько и мнений, и я тоже хочу порассуждать о том, каков он - этот неуловимый идеальный аналитик.</description>
     </item>
     
     <item>
       <title>Мысли о мультфильме &#34;Кунг-фу Панда&#34; и о становлении себя</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-08-01-thoughts-about-kung-fu-panda-movie/</guid>
       <description>Недавно пересмотрел мультфильм &amp;ldquo;Кунг-фу Панда&amp;rdquo;, а точнее два из трех. Последний раз смотрел почти десять лет назад, поэтому многое уже забылось. Сейчас, когда я вступил в осознанный возраст в 26 лет ¯\_(ツ)_/¯, философия мультфильма видится совершенно другой. Мультфильм о том, как обрести себя, как отпустить прошлое и как начать жить сегодняшним днем.
 В первом мультфильме По, главный персонаж, воспользовался случаем и изменил свою жизнь. Случай - его посчитали избранным Воином Дракона.</description>
     </item>
     
     <item>
       <title>Не берись делать то, чего не понимаешь</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</link>
       <pubDate>Fri, 24 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-04-24-do-not-develop-what-you-dont-understand/</guid>
       <description>Написать эту статью меня натолкнул один случай. В моей команде двое junior-девелоперов: парень и девушка, и девушке я делал код-ревью. Задача была простая: ранее она написал экстеншн-метод (extension method из .NET) для валидации свойств объекта, и я предложил перенести этот экстеншн в сам класс объекта в качестве публичного метода. Девушка перенесла метод, и в качестве аргументов передавала те же свойства, которые нужно было провалидировать. Это было странное решение, ведь свойства объекта доступны в самом методе, нет нужды передавать их извне.</description>
     </item>
     
     <item>
       <title>Желание научиться новому видно по горящим глазам разработчика</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</link>
       <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-03-07-seeking-new-to-learn-is-important/</guid>
       <description>Предыстория Идея этой статьи родилась, пока я писал статью на другую тему: &amp;ldquo;Product development vs outsourcing&amp;rdquo;. За мою небольшую карьеру я успел поработать сначала в двух продуктовых компаниях, а затем в двух аутсорсовых. Переход с продуктовой разработки в аутсорс случился два года назад (2018) и показался мне кардинальным. С тех пор я держал в голове мысль написать об этом статью.
 Сперва мне показалось, что в продуктовой компании работать лучше. Продуктовой в данном случая я называю банк, который разрабатывал свой веб-сайт, систему мобильного онлайн-банкинг и мобильные приложения.</description>
     </item>
     
     <item>
       <title>О социальном трудоустройстве</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-02-27-social-employment-about/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-02-27-social-employment-about/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</guid>
       <description>Написать эту статью меня побудил случай в Германии. Я решил провести пару недель в Европе, и чтобы комфортно пользоваться интернетом, решил купить симкарту и пакет в размером в 3гб. Казалось бы, одна из самых простых операций в СНГ, которая не заняла бы много времени. Но мы ведь в Германии, стране, где капитализм и социализм переплелись в крайне занятный тандем.
 Что нужно туристу, чтобы начать пользоваться интернетом в другой стране?
 Купить симкарту.</description>
@@ -273,10 +273,10 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Как не пропустить невалидный код в репозиторий</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
       <description>Эту же статью я опубликовал на habr.com.
 Зачем это необходимо Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков if...else, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.
 Чтобы код-ревью и прочие командные митинги не превратились в обсуждение tab vs spaces на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.</description>
@@ -284,19 +284,19 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Мое мнение о фильме &#34;Паразиты&#34;</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2020-02-13-about-gisaengchung-movie/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2020-02-13-about-gisaengchung-movie/</link>
       <pubDate>Thu, 13 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2020-02-13-about-gisaengchung-movie/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2020-02-13-about-gisaengchung-movie/</guid>
       <description>Я ходил на фильм &amp;ldquo;Паразиты&amp;rdquo; летом прошлого года, когда он только вышел в прокат в Казахстане. Помню, что он показался мне немного запутанным, но сюжет, игра актеров и повествование завораживалb. Мне хотелось смотреть его еще и еще и, наконец, узнать, чем же он закончится. Я - небольшой критик кино, я не могу сходу назвать и увидеть сценарные и операторские приемы, которые делают хорошие фильмы хорошими, а их отсутствие - плохие фильмы плохими.</description>
     </item>
     
     <item>
       <title>Действительно ли образование в СССР было &#34;лучшим в мире&#34;?</title>
-      <link>https://maximgorbatyuk.github.io/blog/different/2019-09-29-was-ussr-education-really-good/</link>
+      <link>https://mgorbatyuk.dev/blog/different/2019-09-29-was-ussr-education-really-good/</link>
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/different/2019-09-29-was-ussr-education-really-good/</guid>
+      <guid>https://mgorbatyuk.dev/blog/different/2019-09-29-was-ussr-education-really-good/</guid>
       <description>Каждый раз, когда говорят, что &amp;ldquo;в советском союзе было самое лучшее образование в мире&amp;rdquo;, я в это несильно верю.
 Разница подходов образования Я не могу судить о западном школьном образовании, потому что я сам не учился в американской школе, однако могу сделать некоторые предположения на основе общеизвестной &amp;ldquo;болонской&amp;rdquo; системе образования в университетах и образовательных документальных видео американского производства.
 Западное образование строится на желании самого обучающегося. Американскому школьнику не дают знания в том объеме, в котором их дают советсткому.</description>
@@ -304,10 +304,10 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Должны ли программисты изучать бизнес-сферу проекта</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
       <description>В комментариях к одному видео некто задал интересный вопрос:
 А должны ли программисты изучать бизнес-сферу проекта, где работают?
 Автор видео не успел ответить, а я же посчитал, что меня забыли спросить и что я должен ответить на этот вопрос.
@@ -316,10 +316,10 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Что я должен спросить у своей будущей команды. The Joel test.</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
       <description>Disclamer Источник: https://www.joelonsoftware.com. Эта статья - вольный перевод без претензии на достоверность.
 В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.
 Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.</description>
@@ -327,20 +327,20 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Scrum vs Kanban для разработки в банке</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2019-09-19-kanban-for-development-in-bank/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2019-09-19-kanban-for-development-in-bank/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2019-09-19-kanban-for-development-in-bank/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2019-09-19-kanban-for-development-in-bank/</guid>
       <description>Disclaimer: Данная статья — только мнение отдельно взятого разработчика о бизнес-процессах в отдельно взятой компании. Никаких неопровержимых доказательств здесь не приводят.
 Я работаю в команде разработки раздела сайта в банке. Сайт внешний, содержит FAQ о продуктах банка. Посещаемость клиентами в стране около 587к в месяц. Хотя относительно остальных разделов сайта это небольшая цифра. Например, в разделе “Мой банк” — мобильное интернет-отделение — посещаемость гораздо выше, но точных цифр мне никто не дал.</description>
     </item>
     
     <item>
       <title>Вопросы будущему работодателю</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-future-employer/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-future-employer/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-future-employer/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-future-employer/</guid>
       <description>Часто во время интервью спрашивают нас о чем-то, но это ведь собеседование, значит и кандидат на позицию тоже выбирает из компаний. Необходимо задавать вопросы на собеседованиях, и чем они провокационней, тем лучше.
 Вопросы Как часто проводятся груминги, дэйли и другие митинги Agile? Необходимо понаблюдать за реакцией собеседника: устало он отвечает или бодро. Вряд ли отсутствие энтузиазма в голосе будет при отличных и продуктивных митингах.
 Как часто происходят пожары? Пожар - это когда какой-то сотрудник остается в офисе допоздна и тушит его.</description>
@@ -348,20 +348,20 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Вопросы компании при собеседованиях</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-company/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2019-09-19-questions-for-company/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</guid>
       <description>Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал
 Работа и дружба Что способствует дружеским отношениям внутри вашей команды? Большинство людей не признают, что члены их команды не близки друг другу или им не хватает командной работы. Спрашивая о том, чем связана команда, вы получите четкое представление о том, насколько все дружелюбны и сплочены. Члены одной команды посещают конференции вместе, а члены другой были друзьями еще до того, как присоединиться к компании.</description>
     </item>
     
     <item>
       <title>Восточный менеджмент</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-08-eastern-management/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-08-eastern-management/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</guid>
       <description>Источник: записи из моего блокнота. Возможно, на лекциях MBA рассказывали, а может и записал откуда-то.
 Руководитель - человек, распоряжающийся людскими ресурсами. Менеджер - работний, от принимаемых решений которого зависит в той или иной степени прибыль компании.
 Принципы восточного менеджмента 1. Все законы войны распространияются и на искусство ведения бизнеса Успех может ослепить менеджера, а поражение - заставить его думать, что виновы все и вся, но только не он.
@@ -370,10 +370,10 @@ The reason for it was fact that we had to start developing React application as 
     
     <item>
       <title>Модель S.T.A.R.S. для оценки Soft-Skills</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-08-starts-schema-interview/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-08-starts-schema-interview/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</guid>
       <description>Situation Попроси рассказать кандидата о ситуации. Контекст, предпосылки и т.д.
 Task / Trouble Какую проблему увидел кандидат в ситуации, почему охарактеризовал ее проблемой.
 Actions Какие действия он предпринял для решения проблемы. Почему именно такие. Нужно задавать больше вопросов с How, Why, Who, которые побуждают к рассказу.
@@ -383,40 +383,40 @@ Self-apprisal Как оцениает кандидат свои действия
     
     <item>
       <title>Суть теста Тьюринга</title>
-      <link>https://maximgorbatyuk.github.io/blog/opinion/2019-09-08-thoughts-about-test-of-turing/</link>
+      <link>https://mgorbatyuk.dev/blog/opinion/2019-09-08-thoughts-about-test-of-turing/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/opinion/2019-09-08-thoughts-about-test-of-turing/</guid>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2019-09-08-thoughts-about-test-of-turing/</guid>
       <description>Из википелии:
 Тест Тьюринга — эмпирический тест, идея которого была предложена Аланом Тьюрингом в статье «Вычислительные машины и разум» (англ. Computing Machinery and Intelligence), опубликованной в 1950 году в философском журнале «Mind». Тьюринг задался целью определить, может ли машина мыслить.Стандартное звучание закона: «Если компьютер может работать так, что человек не в состоянии определить, с кем он общается — с другим человеком или с машиной, — считается, что он прошел тест Тьюринга»</description>
     </item>
     
     <item>
       <title>Этапы эволюции обратной связи в команде разработки</title>
-      <link>https://maximgorbatyuk.github.io/blog/videos/2019-09-08-video-conference-feedback-about/</link>
+      <link>https://mgorbatyuk.dev/blog/videos/2019-09-08-video-conference-feedback-about/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/videos/2019-09-08-video-conference-feedback-about/</guid>
+      <guid>https://mgorbatyuk.dev/blog/videos/2019-09-08-video-conference-feedback-about/</guid>
       <description>Ссылка на видеозапись выступления про обратную связь в компании
 Презентация</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://maximgorbatyuk.github.io/about/</link>
+      <link>https://mgorbatyuk.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/about/</guid>
+      <guid>https://mgorbatyuk.dev/about/</guid>
       <description>Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life.</description>
     </item>
     
     
     <item>
       <title>Public speaking</title>
-      <link>https://maximgorbatyuk.github.io/speaking/</link>
+      <link>https://mgorbatyuk.dev/speaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/speaking/</guid>
+      <guid>https://mgorbatyuk.dev/speaking/</guid>
       <description>speaking</description>
     </item>
     

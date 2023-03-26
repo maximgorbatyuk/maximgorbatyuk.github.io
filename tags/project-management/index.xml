@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>project management on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/project-management/</link>
+    <link>https://mgorbatyuk.dev/tags/project-management/</link>
     <description>Recent content in project management on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conflicts lead to high-quality products</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2022-05-09-conflicts-in-it-en/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2022-05-09-conflicts-in-it-en/</link>
       <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2022-05-09-conflicts-in-it-en/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2022-05-09-conflicts-in-it-en/</guid>
       <description>The only balance between interests leads to product version delivery which is the primary goal of the project processes. As much strong pressure will be applied from every side of impact, as much better quality the product will get. What conflicts I mean, you can find out in this article.</description>
     </item>
     
     <item>
       <title>Конфликт в проекте – качественный продукт</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2022-05-08-conflicts-in-it/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2022-05-08-conflicts-in-it/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2022-05-08-conflicts-in-it/</guid>
       <description>В проекте конфликт присутствует между заказчиком и командой разработчиков, включая и проектного менеджера. Заказчик хочет сделать как можно больше задач за как можно меньшие деньги, а команда же хочет работать меньше и получить больше денег. И где-то посередине достигается баланс ресурсов и объема работ.</description>
     </item>
     
     <item>
       <title>Должны ли программисты изучать бизнес-сферу проекта</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
       <description>В комментариях к одному видео некто задал интересный вопрос:
 А должны ли программисты изучать бизнес-сферу проекта, где работают?
 Автор видео не успел ответить, а я же посчитал, что меня забыли спросить и что я должен ответить на этот вопрос.
@@ -43,10 +43,10 @@
     
     <item>
       <title>Восточный менеджмент</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-08-eastern-management/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-08-eastern-management/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</guid>
       <description>Источник: записи из моего блокнота. Возможно, на лекциях MBA рассказывали, а может и записал откуда-то.
 Руководитель - человек, распоряжающийся людскими ресурсами. Менеджер - работний, от принимаемых решений которого зависит в той или иной степени прибыль компании.
 Принципы восточного менеджмента 1. Все законы войны распространияются и на искусство ведения бизнеса Успех может ослепить менеджера, а поражение - заставить его думать, что виновы все и вся, но только не он.
@@ -55,10 +55,10 @@
     
     <item>
       <title>Модель S.T.A.R.S. для оценки Soft-Skills</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2019-09-08-starts-schema-interview/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2019-09-08-starts-schema-interview/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</guid>
       <description>Situation Попроси рассказать кандидата о ситуации. Контекст, предпосылки и т.д.
 Task / Trouble Какую проблему увидел кандидат в ситуации, почему охарактеризовал ее проблемой.
 Actions Какие действия он предпринял для решения проблемы. Почему именно такие. Нужно задавать больше вопросов с How, Why, Who, которые побуждают к рассказу.

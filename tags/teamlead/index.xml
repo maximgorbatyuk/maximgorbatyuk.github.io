@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>teamlead on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/teamlead/</link>
+    <link>https://mgorbatyuk.dev/tags/teamlead/</link>
     <description>Recent content in teamlead on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Любые процессы разработки должны быть явными</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-02-26-development-processes/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</guid>
       <description>Картинка взята отсюда
 Очевидные вещи нужно проговаривать
 Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
@@ -25,19 +25,19 @@
     
     <item>
       <title>Совету начинающему тимлиду</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
       <description>Когда разработчик становится тимлидом, он может еще по-прежнему заниматься разработкой, забывая об остальных задачах тимлида. Нужно менять фокус внимания, как бы ни хотелось писать код дальше. Я поделюсь парой советов начинающим тимлидам, какие шаги нужно предпринять в первую очередь, чтобы старт руководства командой прошел легче и с меньшим стрессом</description>
     </item>
     
     <item>
       <title>Главная задача тимлида на проекте</title>
-      <link>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</link>
+      <link>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/management/2021-08-18-who-is-teamlead/</guid>
+      <guid>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</guid>
       <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
 На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
     </item>

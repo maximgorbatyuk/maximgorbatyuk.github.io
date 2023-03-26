@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>project on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/project/</link>
+    <link>https://mgorbatyuk.dev/tags/project/</link>
     <description>Recent content in project on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сколько времени работать на одном проекте?</title>
-      <link>https://maximgorbatyuk.github.io/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
+      <link>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
+      <guid>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
       <description>Как часто стоит менять проекты? Какой период времени смены работы можно считать некой нормой? На эти рассуждения меня натолкнуло обуждение в одном из чатов разработчиков. Вопрос действительно интересный.
 Disclaimer Все данные в статье являются моими личными оценками и не являются истиной в последней инстанции. Смена проетка - не всегда смена работодателя. А иногда даже и новая роль на том же проекте. TL;DR: Адекватные сроки:
 Грейд/роль Срок Джун 0.5 - 1 год Миддл 1 - 2 года Сеньор / лид 2 - 3 года Тимлид 2+ лет ПМ 2+ лет Но это не точно.</description>

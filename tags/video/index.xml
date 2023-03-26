@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>video on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/video/</link>
+    <link>https://mgorbatyuk.dev/tags/video/</link>
     <description>Recent content in video on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/video/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/video/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Этапы эволюции обратной связи в команде разработки</title>
-      <link>https://maximgorbatyuk.github.io/blog/videos/2019-09-08-video-conference-feedback-about/</link>
+      <link>https://mgorbatyuk.dev/blog/videos/2019-09-08-video-conference-feedback-about/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/videos/2019-09-08-video-conference-feedback-about/</guid>
+      <guid>https://mgorbatyuk.dev/blog/videos/2019-09-08-video-conference-feedback-about/</guid>
       <description>Ссылка на видеозапись выступления про обратную связь в компании
 Презентация</description>
     </item>

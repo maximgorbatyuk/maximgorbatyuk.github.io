@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>asp.net on mgorbatyuk.dev</title>
-    <link>https://maximgorbatyuk.github.io/tags/asp.net/</link>
+    <link>https://mgorbatyuk.dev/tags/asp.net/</link>
     <description>Recent content in asp.net on mgorbatyuk.dev</description>
     <image>
-      <url>https://maximgorbatyuk.github.io/images/avatar.png</url>
-      <link>https://maximgorbatyuk.github.io/images/avatar.png</link>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://maximgorbatyuk.github.io/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/asp.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A little life hack when you work with Azure Service Bus and ASP.NET Core</title>
-      <link>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
+      <link>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://maximgorbatyuk.github.io/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
+      <guid>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
       <description>If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?
 Well, I know a minor life hack for my teams.</description>
     </item>
