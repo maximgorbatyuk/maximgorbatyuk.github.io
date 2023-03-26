@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>chatbot on mgorbatyuk.dev</title>
+    <link>https://mgorbatyuk.dev/tags/chatbot/</link>
+    <description>Recent content in chatbot on mgorbatyuk.dev</description>
+    <image>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chat GPT - это ассистент, а не замена</title>
+      <link>https://mgorbatyuk.dev/blog/opinion/2023-03-26-chat-gpt-as-assistant/</link>
+      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/opinion/2023-03-26-chat-gpt-as-assistant/</guid>
+      <description>Решил обновить домен для моего блога и сменить его на mgorbatyuk.dev. Мой блог хостится на GitHub Pages, поэтому смена домена не заняла много времени. Есть подробная документация, но мне стало интересно, есть ли удобный туториал а-ля &amp;ldquo;делай это, затем это, потом то, далее сё, и получишь результат&amp;rdquo; без дополнительных пояснений. Спросил у ИИ, и он дал такой туториал. Круто, что можно задавать уточняющие вопросы.
+В работе я постоянно пользовался GitHub Copilot и до релиза Chat GPT, мне он помогал генерировать разные утилитарные методы, которые не зависили от бизнес логики: хэширование пароля, чтение из файла, валидации, etc.</description>
+    </item>
+    
+  </channel>
+</rss>
