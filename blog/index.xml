@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Осознанный подход к карьере. Конспект доклада</title>
+      <link>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</guid>
+      <description>От автора блога Посмотрел доклад Анастасии Калашниковой &amp;ldquo;Правила осознанной карьеры разработчика&amp;rdquo; по наводке блоггера. Тема мне показалась интересной, орешил сделать конспект. Рефлексия для меня - это умение остановиться и спросить себя, а не хурму ли я делаю и какие будут последствия в будущем. Действительно, во время работы легко увлечься рутиной и забыть рефлексировать. Тем не менее, нужно останавливаться, ведь это еще и часть обучения. Мало послушать доклад, важно еще и понять, не зря ли его ты послушал и какие полезные советы и практики можно извлечь из него, а тут без рефлексии никуда.</description>
+    </item>
+    
     <item>
       <title>Chat GPT - это ассистент, а не замена</title>
       <link>https://mgorbatyuk.dev/blog/opinion/2023-03-26-chat-gpt-as-assistant/</link>

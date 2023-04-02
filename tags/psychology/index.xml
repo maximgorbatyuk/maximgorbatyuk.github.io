@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>psychology on mgorbatyuk.dev</title>
+    <link>https://mgorbatyuk.dev/tags/psychology/</link>
+    <description>Recent content in psychology on mgorbatyuk.dev</description>
+    <image>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/psychology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Осознанный подход к карьере. Конспект доклада</title>
+      <link>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</link>
+      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</guid>
+      <description>От автора блога Посмотрел доклад Анастасии Калашниковой &amp;ldquo;Правила осознанной карьеры разработчика&amp;rdquo; по наводке блоггера. Тема мне показалась интересной, орешил сделать конспект. Рефлексия для меня - это умение остановиться и спросить себя, а не хурму ли я делаю и какие будут последствия в будущем. Действительно, во время работы легко увлечься рутиной и забыть рефлексировать. Тем не менее, нужно останавливаться, ведь это еще и часть обучения. Мало послушать доклад, важно еще и понять, не зря ли его ты послушал и какие полезные советы и практики можно извлечь из него, а тут без рефлексии никуда.</description>
+    </item>
+    
+  </channel>
+</rss>
