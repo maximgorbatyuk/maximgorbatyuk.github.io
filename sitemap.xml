@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://mgorbatyuk.dev/blog/</loc>
-    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/tags/management/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/tags/processes/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/tags/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/tags/teamlead/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/blog/management/2023-04-05-do-we-really-need-teamleads/</loc>
+    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/tags/carreer/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgorbatyuk.dev/</loc>
-    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://mgorbatyuk.dev/tags/psychology/</loc>
-    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgorbatyuk.dev/tags/</loc>
     <lastmod>2023-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</loc>
@@ -33,12 +45,6 @@
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/tags/code_quality/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgorbatyuk.dev/tags/management/</loc>
-    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgorbatyuk.dev/tags/processes/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/tags/.net/</loc>
@@ -60,9 +66,6 @@
     <lastmod>2023-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/tags/opinion/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgorbatyuk.dev/tags/teamlead/</loc>
     <lastmod>2023-02-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</loc>
