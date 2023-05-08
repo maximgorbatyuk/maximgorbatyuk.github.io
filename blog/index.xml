@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как обойти ограничение для m2m клиентов в Auth0</title>
+      <link>https://mgorbatyuk.dev/blog/development/2023-05-08-auth0-m2m-limit-solution/</link>
+      <pubDate>Mon, 08 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/development/2023-05-08-auth0-m2m-limit-solution/</guid>
+      <description>В Auth0 для токенов m2m есть ограничение на размер метаинформации. В статье я покажу один из способов, как можно обойти это ограничение.</description>
+    </item>
+    
     <item>
       <title>Осознанный подход к карьере. Конспект доклада</title>
       <link>https://mgorbatyuk.dev/blog/different/2023-04-02-deliberate-carreer/</link>
