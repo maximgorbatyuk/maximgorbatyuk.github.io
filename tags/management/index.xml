@@ -10,16 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>А нужны ли они вам, эти тимлиды?</title>
-      <link>https://mgorbatyuk.dev/blog/management/2023-04-05-do-we-really-need-teamleads/</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgorbatyuk.dev/blog/management/2023-04-05-do-we-really-need-teamleads/</guid>
-      <description>Тимлидов найти в компанию сложно, редкий разработчик хочет быть тимлидом. А когда найдешь такого, то удержать его - тоже нелегкая задача: тимлиды перегорают и уходят. А можно ли жить без тимлидов? Кто тогда будет заниматься людьми, проектами и архитектурой? Ответы на эти вопросы есть у меня.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Code quality first vs business value first</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</link>
