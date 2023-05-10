@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Асинхронная работа - для всех?</title>
+      <link>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</guid>
+      <description>Легко ли настроить асинхронный режим работы в команде? Как убедить коллег в пользе асинхронности, если их лебом не корми, а дай только созвониться? Давайте обсудим способы, как можно убедить коллег в пользе асинхронной работы и какие практики помогут вам в этом.</description>
+    </item>
+    
     <item>
       <title>Code quality first vs business value first</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</link>

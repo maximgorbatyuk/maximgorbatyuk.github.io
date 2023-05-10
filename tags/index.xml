@@ -10,7 +10,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>management</title>
+      <link>https://mgorbatyuk.dev/tags/management/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/tags/management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>processes</title>
+      <link>https://mgorbatyuk.dev/tags/processes/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/tags/processes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>auth0</title>
       <link>https://mgorbatyuk.dev/tags/auth0/</link>
@@ -71,24 +89,6 @@
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mgorbatyuk.dev/tags/code_quality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>management</title>
-      <link>https://mgorbatyuk.dev/tags/management/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgorbatyuk.dev/tags/management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>processes</title>
-      <link>https://mgorbatyuk.dev/tags/processes/</link>
-      <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgorbatyuk.dev/tags/processes/</guid>
       <description></description>
     </item>
     
