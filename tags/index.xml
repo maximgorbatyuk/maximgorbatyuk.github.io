@@ -10,11 +10,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>management</title>
       <link>https://mgorbatyuk.dev/tags/management/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mgorbatyuk.dev/tags/management/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>processes</title>
       <link>https://mgorbatyuk.dev/tags/processes/</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mgorbatyuk.dev/tags/processes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>teamlead</title>
+      <link>https://mgorbatyuk.dev/tags/teamlead/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/tags/teamlead/</guid>
       <description></description>
     </item>
     
@@ -143,15 +152,6 @@
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mgorbatyuk.dev/tags/opinion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teamlead</title>
-      <link>https://mgorbatyuk.dev/tags/teamlead/</link>
-      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://mgorbatyuk.dev/tags/teamlead/</guid>
       <description></description>
     </item>
     

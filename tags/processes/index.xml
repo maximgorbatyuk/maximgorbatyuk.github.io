@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>А нужны ли они вам, эти тимлиды?</title>
+      <link>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</guid>
+      <description>Тимлидов найти в компанию сложно, редкий разработчик хочет быть тимлидом. А когда найдешь такого, то удержать его - тоже нелегкая задача: тимлиды перегорают и уходят. А можно ли жить без тимлидов? Кто тогда будет заниматься людьми, проектами и архитектурой? Ответы на эти вопросы есть у меня.</description>
+    </item>
+    
     <item>
       <title>Как работать асинхронно, когда все вокруг хотят созвониться?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</link>
