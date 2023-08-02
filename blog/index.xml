@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Let&#39;s do stuff right!</title>
+      <link>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</guid>
+      <description>Название происходит от известной дилеммы: делать правильные вещи или делать вещи правильно. Как говорят, что хорошо быть здоровым и богатым, чем бедным и больным, то и в идеальном мире мы должны делать правильные вещи правильно. Однако мир не таков, времени никогда не хватает, посему приходится иногда идти на компромиссы и выбирать что-то одно.</description>
+    </item>
+    
     <item>
       <title>А нужны ли они вам, эти тимлиды?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</link>
