@@ -5,102 +5,86 @@
     <link>https://mgorbatyuk.dev/tags/processes/</link>
     <description>Recent content in processes on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/processes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s do stuff right!</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</guid>
       <description>Название происходит от известной дилеммы: делать правильные вещи или делать вещи правильно. Как говорят, что хорошо быть здоровым и богатым, чем бедным и больным, то и в идеальном мире мы должны делать правильные вещи правильно. Однако мир не таков, времени никогда не хватает, посему приходится иногда идти на компромиссы и выбирать что-то одно.</description>
     </item>
-    
     <item>
       <title>А нужны ли они вам, эти тимлиды?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</guid>
       <description>Тимлидов найти в компанию сложно, редкий разработчик хочет быть тимлидом. А когда найдешь такого, то удержать его - тоже нелегкая задача: тимлиды перегорают и уходят. А можно ли жить без тимлидов? Кто тогда будет заниматься людьми, проектами и архитектурой? Ответы на эти вопросы есть у меня.</description>
     </item>
-    
     <item>
       <title>Как работать асинхронно, когда все вокруг хотят созвониться?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</guid>
       <description>Легко ли настроить асинхронный режим работы в команде? Как убедить коллег в пользе асинхронности, если их хлебом не корми, а дай только созвониться? Давайте обсудим способы, как убедить коллег в пользе асинхронной работы и какие практики помогут в этом.</description>
     </item>
-    
     <item>
       <title>Code quality first vs business value first</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</guid>
       <description>При разработке софта мы думаем о том, какую ценность приносит продукт пользователям. Но какую бы ценность не закладывали авторы, если продукт выдает ошибку за ошибкой, то пользователи и оценить-то эту ценность не смогут. На чем же фокусироваться разработчикам: на качестве или на бизнес-ценности?</description>
     </item>
-    
     <item>
       <title>Любые процессы разработки должны быть явными</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</guid>
       <description>Картинка взята отсюда
 Очевидные вещи нужно проговаривать
 Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
 Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены.</description>
     </item>
-    
     <item>
       <title>Идеальный Бизнес-Аналитик глазами разработчика</title>
       <link>https://mgorbatyuk.dev/blog/management/2020-09-07-ideal-ba/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2020-09-07-ideal-ba/</guid>
       <description>Недавно я послушал подкаст &amp;ldquo;Идеальный бизнес-аналитик глазами разработчика&amp;rdquo; своего очень хорошего друга. Не со всеми тезисами я был согласен, однако подкаст побудил меня начать обсуждение с участниками подкаста. А потом еще и сам побывал в этом подкасте в качестве гостя.
 Чтобы понять, кто такой &amp;ldquo;идеальный аналитик&amp;rdquo;, важно определиться с набором требований. Что я жду от аналитика как разработчик? А как тимлид? А как менеджер проекта? Сколько людей, столько и мнений, и я тоже хочу порассуждать о том, каков он - этот неуловимый идеальный аналитик.</description>
     </item>
-    
     <item>
       <title>Как не пропустить невалидный код в репозиторий</title>
       <link>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
       <description>Эту же статью я опубликовал на habr.com.
 Зачем это необходимо Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков if...else, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.
 Чтобы код-ревью и прочие командные митинги не превратились в обсуждение tab vs spaces на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.</description>
     </item>
-    
     <item>
       <title>Должны ли программисты изучать бизнес-сферу проекта</title>
       <link>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
       <description>В комментариях к одному видео некто задал интересный вопрос:
 А должны ли программисты изучать бизнес-сферу проекта, где работают?
 Автор видео не успел ответить, а я же посчитал, что меня забыли спросить и что я должен ответить на этот вопрос.
 Почему не стоит слепо доверять прописанным требованиям Некоторые разработчики могут подумать, что они приходят в компанию писать код и разрабатывать архитектуру, а не вдаваться в подробности бизнеса компании. Что, мол, бизнес-аналитики должны прорабатывать все нюансы проекта и сценарии взаимодействия (Use Case - UML).</description>
     </item>
-    
     <item>
       <title>Scrum vs Kanban для разработки в банке</title>
       <link>https://mgorbatyuk.dev/blog/opinion/2019-09-19-kanban-for-development-in-bank/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/opinion/2019-09-19-kanban-for-development-in-bank/</guid>
       <description>Disclaimer: Данная статья — только мнение отдельно взятого разработчика о бизнес-процессах в отдельно взятой компании. Никаких неопровержимых доказательств здесь не приводят.
 Я работаю в команде разработки раздела сайта в банке. Сайт внешний, содержит FAQ о продуктах банка. Посещаемость клиентами в стране около 587к в месяц. Хотя относительно остальных разделов сайта это небольшая цифра. Например, в разделе “Мой банк” — мобильное интернет-отделение — посещаемость гораздо выше, но точных цифр мне никто не дал.</description>
     </item>
-    
   </channel>
 </rss>

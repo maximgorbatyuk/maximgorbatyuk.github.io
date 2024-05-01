@@ -5,58 +5,50 @@
     <link>https://mgorbatyuk.dev/tags/management/</link>
     <description>Recent content in management on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Let&#39;s do stuff right!</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</link>
       <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-08-01-lets-do-stuff-right/</guid>
       <description>Название происходит от известной дилеммы: делать правильные вещи или делать вещи правильно. Как говорят, что хорошо быть здоровым и богатым, чем бедным и больным, то и в идеальном мире мы должны делать правильные вещи правильно. Однако мир не таков, времени никогда не хватает, посему приходится иногда идти на компромиссы и выбирать что-то одно.</description>
     </item>
-    
     <item>
       <title>А нужны ли они вам, эти тимлиды?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</guid>
       <description>Тимлидов найти в компанию сложно, редкий разработчик хочет быть тимлидом. А когда найдешь такого, то удержать его - тоже нелегкая задача: тимлиды перегорают и уходят. А можно ли жить без тимлидов? Кто тогда будет заниматься людьми, проектами и архитектурой? Ответы на эти вопросы есть у меня.</description>
     </item>
-    
     <item>
       <title>Как работать асинхронно, когда все вокруг хотят созвониться?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-05-04-async-work/</guid>
       <description>Легко ли настроить асинхронный режим работы в команде? Как убедить коллег в пользе асинхронности, если их хлебом не корми, а дай только созвониться? Давайте обсудим способы, как убедить коллег в пользе асинхронной работы и какие практики помогут в этом.</description>
     </item>
-    
     <item>
       <title>Code quality first vs business value first</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</link>
       <pubDate>Mon, 20 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-03-20-code-quality-first/</guid>
       <description>При разработке софта мы думаем о том, какую ценность приносит продукт пользователям. Но какую бы ценность не закладывали авторы, если продукт выдает ошибку за ошибкой, то пользователи и оценить-то эту ценность не смогут. На чем же фокусироваться разработчикам: на качестве или на бизнес-ценности?</description>
     </item>
-    
     <item>
       <title>О социальном трудоустройстве</title>
       <link>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</guid>
       <description>Написать эту статью меня побудил случай в Германии. Я решил провести пару недель в Европе, и чтобы комфортно пользоваться интернетом, решил купить симкарту и пакет в размером в 3гб. Казалось бы, одна из самых простых операций в СНГ, которая не заняла бы много времени. Но мы ведь в Германии, стране, где капитализм и социализм переплелись в крайне занятный тандем.
 Что нужно туристу, чтобы начать пользоваться интернетом в другой стране?
 Купить симкарту.</description>
     </item>
-    
   </channel>
 </rss>

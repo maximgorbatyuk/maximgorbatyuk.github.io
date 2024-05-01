@@ -5,51 +5,45 @@
     <link>https://mgorbatyuk.dev/tags/teamlead/</link>
     <description>Recent content in teamlead on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>А нужны ли они вам, эти тимлиды?</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</link>
       <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-05-20-do-we-really-need-teamleads/</guid>
       <description>Тимлидов найти в компанию сложно, редкий разработчик хочет быть тимлидом. А когда найдешь такого, то удержать его - тоже нелегкая задача: тимлиды перегорают и уходят. А можно ли жить без тимлидов? Кто тогда будет заниматься людьми, проектами и архитектурой? Ответы на эти вопросы есть у меня.</description>
     </item>
-    
     <item>
       <title>Любые процессы разработки должны быть явными</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</guid>
       <description>Картинка взята отсюда
 Очевидные вещи нужно проговаривать
 Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
 Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены.</description>
     </item>
-    
     <item>
       <title>Совету начинающему тимлиду</title>
       <link>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2023-01-03-advices-for-young-teamleads/</guid>
       <description>Когда разработчик становится тимлидом, он может еще по-прежнему заниматься разработкой, забывая об остальных задачах тимлида. Нужно менять фокус внимания, как бы ни хотелось писать код дальше. Я поделюсь парой советов начинающим тимлидам, какие шаги нужно предпринять в первую очередь, чтобы старт руководства командой прошел легче и с меньшим стрессом</description>
     </item>
-    
     <item>
       <title>Главная задача тимлида на проекте</title>
       <link>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</guid>
       <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
 На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
     </item>
-    
   </channel>
 </rss>

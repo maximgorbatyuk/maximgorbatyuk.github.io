@@ -5,87 +5,73 @@
     <link>https://mgorbatyuk.dev/tags/.net/</link>
     <description>Recent content in .net on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/.net/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Вредные советы по тестированию программ</title>
       <link>https://mgorbatyuk.dev/blog/development/2023-03-04-unit-testing-anti-patterns/</link>
       <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2023-03-04-unit-testing-anti-patterns/</guid>
       <description>Тестировать программы, которые пишем - долго, нудно и муторно. Поди разбери, что хочет тимлид. Хорошо, что люди придумали много антипаттернов, как можно и юнит-тесты написать, и команду свою запутать. Вроде тесты написаны, а что проверяют и как - не поймешь и не разберешь. В статье ниже я дам вам несколько вредных советов, как можно пошутить над тиммейтами с помощью юнит-тестов.</description>
     </item>
-    
     <item>
       <title>How to increase nuget package version automatically with Github Actions</title>
       <link>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</guid>
       <description>When you push new nugets to nuget.org, you need to increase the version of the package. This article describes how to do it automatically with Github Actions.</description>
     </item>
-    
     <item>
       <title>Как создавать эффективные баг-репорты</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-12-28-how-to-create-effective-bug-reports/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2021-12-28-how-to-create-effective-bug-reports/</guid>
       <description>Хорошо описанный баг-репорт значительно сокращает время на поиск решения. А вот о том, как написать такой баг-репорт, я напишу в этой статье</description>
     </item>
-    
     <item>
       <title>How to integrate Identity Server into your web application</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-12-26-how-to-integrate-identity-server/</link>
       <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2021-12-26-how-to-integrate-identity-server/</guid>
       <description>There is a tutorial how to integrate and use IdentityServer4 in your web application</description>
     </item>
-    
     <item>
       <title>Do not forget about Async postfix</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-12-12-do-not-forget-about-async/</link>
       <pubDate>Sun, 12 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2021-12-12-do-not-forget-about-async/</guid>
       <description>You should always write Async postifx in the end of the async methods, and here I will explain you why</description>
     </item>
-    
     <item>
       <title>A little life hack when you work with Azure Service Bus and ASP.NET Core</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
       <description>If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?
 Well, I know a minor life hack for my teams.</description>
     </item>
-    
     <item>
       <title>How to accept and return snake case formatted JSON in ASP Web API</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</guid>
       <description>The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from camelCase to snake_case.
 The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues.</description>
     </item>
-    
     <item>
       <title>Как не пропустить невалидный код в репозиторий</title>
       <link>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
       <description>Эту же статью я опубликовал на habr.com.
 Зачем это необходимо Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков if...else, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.
 Чтобы код-ревью и прочие командные митинги не превратились в обсуждение tab vs spaces на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.</description>
     </item>
-    
   </channel>
 </rss>

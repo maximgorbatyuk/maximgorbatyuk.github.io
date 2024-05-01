@@ -5,20 +5,20 @@
     <link>https://mgorbatyuk.dev/tags/time-management/</link>
     <description>Recent content in time management on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/time-management/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/time-management/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Тайм-менеджмент для студентов</title>
       <link>https://mgorbatyuk.dev/blog/opinion/2022-11-01-time-management-for-students/</link>
       <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/opinion/2022-11-01-time-management-for-students/</guid>
       <description>Тайм-менеджмента нет, есть прокрастинация – откладывание дел на потом. Поговорим о способах бороться с ней.</description>
     </item>
-    
   </channel>
 </rss>

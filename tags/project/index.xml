@@ -5,22 +5,22 @@
     <link>https://mgorbatyuk.dev/tags/project/</link>
     <description>Recent content in project on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Сколько времени работать на одном проекте?</title>
       <link>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
       <description>Как часто стоит менять проекты? Какой период времени смены работы можно считать некой нормой? На эти рассуждения меня натолкнуло обуждение в одном из чатов разработчиков. Вопрос действительно интересный.
 Disclaimer Все данные в статье являются моими личными оценками и не являются истиной в последней инстанции. Смена проетка - не всегда смена работодателя. А иногда даже и новая роль на том же проекте. TL;DR: Адекватные сроки:
 Грейд/роль Срок Джун 0.5 - 1 год Миддл 1 - 2 года Сеньор / лид 2 - 3 года Тимлид 2+ лет ПМ 2+ лет Но это не точно.</description>
     </item>
-    
   </channel>
 </rss>

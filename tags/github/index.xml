@@ -5,20 +5,20 @@
     <link>https://mgorbatyuk.dev/tags/github/</link>
     <description>Recent content in github on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/github/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to increase nuget package version automatically with Github Actions</title>
       <link>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/development/2023-02-03-auto-nuget-version-increase/</guid>
       <description>When you push new nugets to nuget.org, you need to increase the version of the package. This article describes how to do it automatically with Github Actions.</description>
     </item>
-    
   </channel>
 </rss>

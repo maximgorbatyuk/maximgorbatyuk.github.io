@@ -5,70 +5,60 @@
     <link>https://mgorbatyuk.dev/tags/interview/</link>
     <description>Recent content in interview on mgorbatyuk.dev</description>
     <image>
+      <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.122.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mgorbatyuk.dev/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/interview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Что такое хорошо и что такое плохо. Как не превратить собеседование в кошмар</title>
       <link>https://mgorbatyuk.dev/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2022-05-27-how-to-not-make-interviews-be-nightmare/</guid>
       <description>Интервью – это стресс для всех его участников. Плохо проведенное интервью испортит впечатление о компании у кандидата. Однако сделать более эффективным собеседования не так уж и сложно, нужно лишь...</description>
     </item>
-    
     <item>
       <title>Не спрашивай на собеседовании “Ну как, я подхожу?”</title>
       <link>https://mgorbatyuk.dev/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</link>
       <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2022-02-20-do-not-ask-about-ti-rigth-after-it/</guid>
       <description>Бывает, что кандидаты спрашивают после собеседования мое мнение, понравилось ли оно мне. Я думаю, что этот вопрос бесмыссленный, и в статье я расскажу почему.</description>
     </item>
-    
     <item>
       <title>О двух интервью, которые стали для меня примером</title>
       <link>https://mgorbatyuk.dev/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2022-01-29-most-important-interviews-in-my-experience/</guid>
       <description>Статья о том, каким должны быть технические собеседования и какими они точно не должны быть</description>
     </item>
-    
     <item>
       <title>Что я должен спросить у своей будущей команды. The Joel test.</title>
       <link>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
       <description>Disclamer Источник: https://www.joelonsoftware.com. Эта статья - вольный перевод без претензии на достоверность.
 В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.
 Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.</description>
     </item>
-    
     <item>
       <title>Вопросы будущему работодателю</title>
       <link>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-future-employer/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-future-employer/</guid>
       <description>Часто во время интервью спрашивают нас о чем-то, но это ведь собеседование, значит и кандидат на позицию тоже выбирает из компаний. Необходимо задавать вопросы на собеседованиях, и чем они провокационней, тем лучше.
 Вопросы Как часто проводятся груминги, дэйли и другие митинги Agile? Необходимо понаблюдать за реакцией собеседника: устало он отвечает или бодро. Вряд ли отсутствие энтузиазма в голосе будет при отличных и продуктивных митингах.
 Как часто происходят пожары? Пожар - это когда какой-то сотрудник остается в офисе допоздна и тушит его.</description>
     </item>
-    
     <item>
       <title>Вопросы компании при собеседованиях</title>
       <link>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</guid>
       <description>Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал
 Работа и дружба Что способствует дружеским отношениям внутри вашей команды? Большинство людей не признают, что члены их команды не близки друг другу или им не хватает командной работы. Спрашивая о том, чем связана команда, вы получите четкое представление о том, насколько все дружелюбны и сплочены. Члены одной команды посещают конференции вместе, а члены другой были друзьями еще до того, как присоединиться к компании.</description>
     </item>
-    
   </channel>
 </rss>
