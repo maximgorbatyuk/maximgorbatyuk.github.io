@@ -383,6 +383,13 @@ Self-apprisal Как оцениает кандидат свои действия
       <description>Maxim Gorbatyuk blogging about web development, dotnet and frontend programming, and life.</description>
     </item>
     <item>
+      <title>Photography</title>
+      <link>https://mgorbatyuk.dev/photography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/photography/</guid>
+      <description>photography</description>
+    </item>
+    <item>
       <title>Public speaking</title>
       <link>https://mgorbatyuk.dev/speaking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
