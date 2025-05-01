@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>project on mgorbatyuk.dev</title>
+    <title>Project on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/project/</link>
-    <description>Recent content in project on mgorbatyuk.dev</description>
+    <description>Recent content in Project on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/project/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,44 @@
       <link>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/employment/2022-10-11-how-much-time-to-spend-on-the-project/</guid>
-      <description>Как часто стоит менять проекты? Какой период времени смены работы можно считать некой нормой? На эти рассуждения меня натолкнуло обуждение в одном из чатов разработчиков. Вопрос действительно интересный.
-Disclaimer Все данные в статье являются моими личными оценками и не являются истиной в последней инстанции. Смена проетка - не всегда смена работодателя. А иногда даже и новая роль на том же проекте. TL;DR: Адекватные сроки:
-Грейд/роль Срок Джун 0.5 - 1 год Миддл 1 - 2 года Сеньор / лид 2 - 3 года Тимлид 2+ лет ПМ 2+ лет Но это не точно.</description>
+      <description>&lt;p&gt;Как часто стоит менять проекты? Какой период времени смены работы можно считать некой нормой? На эти рассуждения меня натолкнуло обуждение в одном из чатов разработчиков. Вопрос действительно интересный.&lt;/p&gt;
+&lt;h2 id=&#34;disclaimer&#34;&gt;Disclaimer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Все данные в статье являются моими личными оценками и не являются истиной в последней инстанции.&lt;/li&gt;
+&lt;li&gt;Смена проетка - не всегда смена работодателя. А иногда даже и новая роль на том же проекте.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: Адекватные сроки:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Грейд/роль&lt;/th&gt;
+          &lt;th&gt;Срок&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Джун&lt;/td&gt;
+          &lt;td&gt;0.5 - 1 год&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Миддл&lt;/td&gt;
+          &lt;td&gt;1 - 2 года&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Сеньор / лид&lt;/td&gt;
+          &lt;td&gt;2 - 3 года&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Тимлид&lt;/td&gt;
+          &lt;td&gt;2+ лет&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;ПМ&lt;/td&gt;
+          &lt;td&gt;2+ лет&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Но это не точно.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

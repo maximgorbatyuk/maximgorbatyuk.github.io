@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>book on mgorbatyuk.dev</title>
+    <title>Book on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/book/</link>
-    <description>Recent content in book on mgorbatyuk.dev</description>
+    <description>Recent content in Book on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Feb 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/book/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,54 @@
       <link>https://mgorbatyuk.dev/blog/opinion/2023-02-08-speaking-about-review/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/opinion/2023-02-08-speaking-about-review/</guid>
-      <description>Этот текст - шпаргалка по книге &amp;ldquo;Говори красиво. Выступай легко&amp;rdquo; от Нины Зверевой и Светланы Иконниковой. Я считаю, что книга очень полезная, но в ней много информации, которую легко забыть. Поэтому я решил сделать шпаргалку, чтобы в будущем можно было быстро вспомнить основные моменты.
-Часть 1. Сторителинг В любой истории есть герой. Во время истории с ним что-то случается, причем неожиданно. Плохое, хорошее, веселое, трагическое - любое.
-Нельзя Можно Рассказывать истории долго Уложить историю в 1-2 минуты Ничего не сообщить о герое - какой он, чего хочет, как выглядит В начале истории презентовать главного героя В самом начале рассказать концовку Держать интригу 10 инструментов рассказчика: Внятная речь Интонация Ваши глаза.</description>
+      <description>&lt;p&gt;Этот текст - шпаргалка по книге &lt;a href=&#34;https://www.litres.ru/nina-zvereva/govori-krasivo-vystupay-legko-prostye-pravila-public-67300076/&#34;&gt;&amp;ldquo;Говори красиво. Выступай легко&amp;rdquo;&lt;/a&gt; от Нины Зверевой и Светланы Иконниковой. Я считаю, что книга очень полезная, но в ней много информации, которую легко забыть. Поэтому я решил сделать шпаргалку, чтобы в будущем можно было быстро вспомнить основные моменты.&lt;/p&gt;
+&lt;h1 id=&#34;часть-1-сторителинг&#34;&gt;Часть 1. Сторителинг&lt;/h1&gt;
+&lt;p&gt;В любой истории есть герой. Во время истории с ним что-то случается, причем неожиданно. Плохое, хорошее, веселое, трагическое - любое.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Нельзя&lt;/th&gt;
+          &lt;th&gt;Можно&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Рассказывать истории долго&lt;/td&gt;
+          &lt;td&gt;Уложить историю в 1-2 минуты&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Ничего не сообщить о герое - какой он, чего хочет, как выглядит&lt;/td&gt;
+          &lt;td&gt;В начале истории презентовать главного героя&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;В самом начале рассказать концовку&lt;/td&gt;
+          &lt;td&gt;Держать интригу&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;10-инструментов-рассказчика&#34;&gt;10 инструментов рассказчика:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Внятная речь&lt;/li&gt;
+&lt;li&gt;Интонация&lt;/li&gt;
+&lt;li&gt;Ваши глаза. Поглядывай по 2 сек на зрителей в разных частях ацдитории.&lt;/li&gt;
+&lt;li&gt;Слова в начале истории. Как-то нужно зацепить слушателя.&lt;/li&gt;
+&lt;li&gt;Тайминг. История - не более трех минут.&lt;/li&gt;
+&lt;li&gt;Сдержанные эмоции. Рассказываешь анекдто - будь невозмутим.&lt;/li&gt;
+&lt;li&gt;Паузы. Не будь монотонным.&lt;/li&gt;
+&lt;li&gt;Картинки и фотографии.&lt;/li&gt;
+&lt;li&gt;Юмор. Шути над собой, люди сильнее уважают тех, кто над собой смеется, чем тех, кого распирает от чсв.&lt;/li&gt;
+&lt;li&gt;Метафоры.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;части-истории&#34;&gt;Части истории:&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Вступление. Описываем героя.&lt;/li&gt;
+&lt;li&gt;Описываем быт героя, чем он живет.&lt;/li&gt;
+&lt;li&gt;Что-то происходит, что влияет на жизнь героя. Возникла проблема или опасность.&lt;/li&gt;
+&lt;li&gt;Подробно рассказываем, что чувствует герой. Как весь мир рухнул, как стало плохо жить.&lt;/li&gt;
+&lt;li&gt;Герой собирается с духом, делает нечто для исправления ситуации.&lt;/li&gt;
+&lt;li&gt;Итог. Герой пожинает лавры, возвращается к привычному.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Быстро проходимся по пунктам 1-3, затем долго рассказываем о переживаниях в пункте 4, затем быстро идем по пунктам 5 и 6.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

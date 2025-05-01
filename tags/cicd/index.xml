@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cicd on mgorbatyuk.dev</title>
+    <title>Cicd on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/cicd/</link>
-    <description>Recent content in cicd on mgorbatyuk.dev</description>
+    <description>Recent content in Cicd on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/cicd/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,10 @@
       <link>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
-      <description>Эту же статью я опубликовал на habr.com.
-Зачем это необходимо Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков if...else, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.
-Чтобы код-ревью и прочие командные митинги не превратились в обсуждение tab vs spaces на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.</description>
+      <description>&lt;p&gt;Эту же статью я опубликовал на &lt;a href=&#34;https://habr.com/ru/post/488626/&#34;&gt;habr.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;зачем-это-необходимо&#34;&gt;Зачем это необходимо&lt;/h1&gt;
+&lt;p&gt;Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков &lt;code&gt;if...else&lt;/code&gt;, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.&lt;/p&gt;
+&lt;p&gt;Чтобы код-ревью и прочие командные митинги не превратились в обсуждение &lt;em&gt;tab vs spaces&lt;/em&gt; на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>translation on mgorbatyuk.dev</title>
+    <title>Translation on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/translation/</link>
-    <description>Recent content in translation on mgorbatyuk.dev</description>
+    <description>Recent content in Translation on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/translation/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,11 @@
       <link>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</link>
       <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/employment/2019-09-22-what-should-i-ask-from-future-team/</guid>
-      <description>Disclamer Источник: https://www.joelonsoftware.com. Эта статья - вольный перевод без претензии на достоверность.
-В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.
-Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.</description>
+      <description>&lt;h3 id=&#34;disclamer&#34;&gt;Disclamer&lt;/h3&gt;
+&lt;p&gt;Источник: &lt;a href=&#34;https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/&#34;&gt;https://www.joelonsoftware.com&lt;/a&gt;. Эта статья - вольный перевод без претензии на достоверность.&lt;/p&gt;
+&lt;p&gt;В переводе не стремился сохранить формулировки автора, а использовал перефразирования, которые использую в своей речи сам.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Тест содержит 12 быстрых вопросов, и каждый ответ &amp;ldquo;Да&amp;rdquo; дает один балл. Градация результата такова: 12 баллов - идеально, 11 - это приемлемо, 10 и меньше - у команды есть проблемы. Ну а если команда набрала только лишь 2-3, то у нее действительно серьезные проблемы.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

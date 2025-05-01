@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fail on mgorbatyuk.dev</title>
+    <link>https://mgorbatyuk.dev/tags/fail/</link>
+    <description>Recent content in Fail on mgorbatyuk.dev</description>
+    <image>
+      <title>mgorbatyuk.dev</title>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/fail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Учитесь на чужих ошибках</title>
+      <link>https://mgorbatyuk.dev/blog/different/2025-05-01-learn-looking-on-others-fails/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/different/2025-05-01-learn-looking-on-others-fails/</guid>
+      <description>Когда ваш продукт сталкивается с высокой нагрузкой, важно правильно уметь реагировать на нее и подготавливать систему так, чтобы она могла или выдерживать ее, или корректно падать и восстанавливаться без последствий для данных. В статье расскажу, как с чем столкнулся сервис продажи билетов ticketion.kz и с чем столкнулись мы в 2023 году, когда нагрузка на БД была 100%, а мы не знали что делать.</description>
+    </item>
+  </channel>
+</rss>

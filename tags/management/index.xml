@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>management on mgorbatyuk.dev</title>
+    <title>Management on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/management/</link>
-    <description>Recent content in management on mgorbatyuk.dev</description>
+    <description>Recent content in Management on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/management/index.xml" rel="self" type="application/rss+xml" />
@@ -46,9 +46,14 @@
       <link>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/opinion/2020-02-27-social-employment-about/</guid>
-      <description>Написать эту статью меня побудил случай в Германии. Я решил провести пару недель в Европе, и чтобы комфортно пользоваться интернетом, решил купить симкарту и пакет в размером в 3гб. Казалось бы, одна из самых простых операций в СНГ, которая не заняла бы много времени. Но мы ведь в Германии, стране, где капитализм и социализм переплелись в крайне занятный тандем.
-Что нужно туристу, чтобы начать пользоваться интернетом в другой стране?
-Купить симкарту.</description>
+      <description>&lt;p&gt;Написать эту статью меня побудил случай в Германии. Я решил провести пару недель в Европе, и чтобы комфортно пользоваться интернетом, решил купить симкарту и пакет в размером в 3гб. Казалось бы, одна из самых простых операций в СНГ, которая не заняла бы много времени. Но мы ведь в Германии, стране, где капитализм и социализм переплелись в крайне занятный тандем.&lt;/p&gt;
+&lt;p&gt;Что нужно туристу, чтобы начать пользоваться интернетом в другой стране?&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Купить симкарту.&lt;/li&gt;
+&lt;li&gt;Купить интернет-пакет.&lt;/li&gt;
+&lt;li&gt;Пользоваться в свое удовольствие.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Однако я, будучи туристом в Германии, столкнулся с рядом проблем и совершением ненужных, с моей точки зрения, действий.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

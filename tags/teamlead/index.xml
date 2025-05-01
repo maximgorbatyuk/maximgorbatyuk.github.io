@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>teamlead on mgorbatyuk.dev</title>
+    <title>Teamlead on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/teamlead/</link>
-    <description>Recent content in teamlead on mgorbatyuk.dev</description>
+    <description>Recent content in Teamlead on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 May 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/teamlead/index.xml" rel="self" type="application/rss+xml" />
@@ -25,10 +25,13 @@
       <link>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</link>
       <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/management/2023-02-26-development-processes/</guid>
-      <description>Картинка взята отсюда
-Очевидные вещи нужно проговаривать
-Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.
-Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены.</description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mgorbatyuk.dev/images/blog/management/2023-02-26-processes/main.jpg&#34; alt=&#34;Типичный режим работы без очевидных процессов&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Картинка взята &lt;a href=&#34;https://t.me/komikaki&#34;&gt;отсюда&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Очевидные вещи нужно проговаривать&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.&lt;/p&gt;
+&lt;p&gt;Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены. Так складывается исторически, что Ваня лучше знает платежи, Петя - как настроить тестовое окружение, а Юля - что делать, если нашел баг. И тот, кто уходит в отпуск, начинает получать сообщения в мессенджеры: &amp;ldquo;сорри что пишу, но &amp;hellip;..&amp;rdquo;. В такой среде легко допустить ошибку, особенно новичкам. Еще хуже, когда даже не знаешь, кого можно спросить в критичный момент.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Совету начинающему тимлиду</title>
@@ -42,8 +45,9 @@
       <link>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/management/2021-08-18-who-is-teamlead/</guid>
-      <description>Что значит быть тимлидом Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.
-На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться.</description>
+      <description>&lt;h2 id=&#34;что-значит-быть-тимлидом&#34;&gt;Что значит быть тимлидом&lt;/h2&gt;
+&lt;p&gt;Таким вопросом задаются многие разработчики: и те, кто хочет стать тимлидом, и те, кто уже. После полутора лет работы в качестве тимлида у меня сформировалось некое понимание своей роли в проекте и компании.&lt;/p&gt;
+&lt;p&gt;На мой взгляд, главная и едва ли не единственная задача тимлида на проекте – сделать максимально возможное, чтобы поставить продукт вовремя. Звучит легко, однако за этой формулировкой стоит такой огромный спектр задач, что можно легко запутаться. Попробую раскрыть тему, что обычно я делаю для того, чтобы поставить продукт вовремя. Что можно включить в перечень задач, достигая которые выполняется главная?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

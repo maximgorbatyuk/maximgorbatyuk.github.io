@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>time management on mgorbatyuk.dev</title>
+    <title>Time Management on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/time-management/</link>
-    <description>Recent content in time management on mgorbatyuk.dev</description>
+    <description>Recent content in Time Management on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 02 Nov 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/time-management/index.xml" rel="self" type="application/rss+xml" />

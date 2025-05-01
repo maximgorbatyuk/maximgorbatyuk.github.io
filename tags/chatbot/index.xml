@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>chatbot on mgorbatyuk.dev</title>
+    <title>Chatbot on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/chatbot/</link>
-    <description>Recent content in chatbot on mgorbatyuk.dev</description>
+    <description>Recent content in Chatbot on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/chatbot/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,10 @@
       <link>https://mgorbatyuk.dev/blog/opinion/2023-03-26-chat-gpt-as-assistant/</link>
       <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/opinion/2023-03-26-chat-gpt-as-assistant/</guid>
-      <description>Решил обновить домен для моего блога и сменить его на mgorbatyuk.dev. Мой блог хостится на GitHub Pages, поэтому смена домена не заняла много времени. Есть подробная документация, но мне стало интересно, есть ли удобный туториал а-ля &amp;ldquo;делай это, затем это, потом то, далее сё, и получишь результат&amp;rdquo; без дополнительных пояснений. Спросил у ИИ, и он дал такой туториал. Круто, что можно задавать уточняющие вопросы.
-В работе я постоянно пользовался GitHub Copilot и до релиза Chat GPT, мне он помогал генерировать разные утилитарные методы, которые не зависили от бизнес логики: хэширование пароля, чтение из файла, валидации, etc.</description>
+      <description>&lt;p&gt;Решил обновить домен для моего блога и сменить его на &lt;a href=&#34;https://mgorbatyuk.dev/&#34;&gt;mgorbatyuk.dev&lt;/a&gt;. Мой блог хостится на GitHub Pages, поэтому смена домена не заняла много времени. Есть подробная документация, но мне стало интересно, есть ли удобный туториал а-ля &amp;ldquo;делай это, затем это, потом то, далее сё, и получишь результат&amp;rdquo; без дополнительных пояснений. Спросил у ИИ, и он дал такой &lt;a href=&#34;https://maximgorbatyuk.notion.site/How-to-set-up-custom-domain-for-github-pages-1049eeb0e2c1423488436a32fc6818d3&#34;&gt;туториал&lt;/a&gt;. Круто, что можно задавать уточняющие вопросы.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mgorbatyuk.dev/images/blog/opinion/2023-03-26/meme.png&#34; alt=&#34;Finally&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;В работе я постоянно пользовался GitHub Copilot и до релиза Chat GPT, мне он помогал генерировать разные утилитарные методы, которые не зависили от бизнес логики: хэширование пароля, чтение из файла, валидации, etc. Особенно много мне копайлот помог с разработкой приложения на Angular: едва ли не весь код работы с файлами и формами там был написан им, а я лишь проверял работоспособность и больше думал о бизнес-логике. Теперь появился чат с ИИ, который помогает начать осваивать новые знания - я спрашиваю, с чего мне стоит начать изучение, и он подскажет ресурсы.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

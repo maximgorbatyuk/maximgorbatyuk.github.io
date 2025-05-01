@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>project management on mgorbatyuk.dev</title>
+    <title>Project Management on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/project-management/</link>
-    <description>Recent content in project management on mgorbatyuk.dev</description>
+    <description>Recent content in Project Management on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
@@ -32,31 +32,42 @@
       <link>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</link>
       <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/management/2019-09-25-do-programmers-should-know-business-sphere/</guid>
-      <description>В комментариях к одному видео некто задал интересный вопрос:
-А должны ли программисты изучать бизнес-сферу проекта, где работают?
-Автор видео не успел ответить, а я же посчитал, что меня забыли спросить и что я должен ответить на этот вопрос.
-Почему не стоит слепо доверять прописанным требованиям Некоторые разработчики могут подумать, что они приходят в компанию писать код и разрабатывать архитектуру, а не вдаваться в подробности бизнеса компании. Что, мол, бизнес-аналитики должны прорабатывать все нюансы проекта и сценарии взаимодействия (Use Case - UML).</description>
+      <description>&lt;p&gt;В комментариях к одному видео некто задал интересный вопрос:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;А должны ли программисты изучать бизнес-сферу проекта, где работают?&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Автор видео не успел ответить, а я же посчитал, что меня забыли спросить и что я должен ответить на этот вопрос.&lt;/p&gt;
+&lt;h1 id=&#34;почему-не-стоит-слепо-доверять-прописанным-требованиям&#34;&gt;Почему не стоит слепо доверять прописанным требованиям&lt;/h1&gt;
+&lt;p&gt;Некоторые разработчики могут подумать, что они приходят в компанию писать код и разрабатывать архитектуру, а не вдаваться в подробности бизнеса компании. Что, мол, бизнес-аналитики должны прорабатывать все нюансы проекта и сценарии взаимодействия (&lt;a href=&#34;https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/&#34;&gt;Use Case - UML&lt;/a&gt;). И это значит, по мнению этих разработчиков, что можно не о чем не волноваться, читать требования и воплощать их в жизнь так, как прописаны аналитиком. С одной стороны, такое мнение имеет право на жизнь, однако есть пара проблем:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Восточный менеджмент</title>
       <link>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-eastern-management/</guid>
-      <description>Источник: записи из моего блокнота. Возможно, на лекциях MBA рассказывали, а может и записал откуда-то.
-Руководитель - человек, распоряжающийся людскими ресурсами. Менеджер - работний, от принимаемых решений которого зависит в той или иной степени прибыль компании.
-Принципы восточного менеджмента 1. Все законы войны распространияются и на искусство ведения бизнеса Успех может ослепить менеджера, а поражение - заставить его думать, что виновы все и вся, но только не он.
-2. Если ты силен, то покажи слабость; если ты слаб - покажи силу.</description>
+      <description>&lt;p&gt;Источник: записи из моего блокнота. Возможно, на лекциях MBA рассказывали, а может и записал откуда-то.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Руководитель - человек, распоряжающийся людскими ресурсами. Менеджер - работний, от принимаемых решений которого зависит в той или иной степени прибыль компании.&lt;/p&gt;
+&lt;h1 id=&#34;принципы-восточного-менеджмента&#34;&gt;Принципы восточного менеджмента&lt;/h1&gt;
+&lt;h2 id=&#34;1-все-законы-войны-распространияются-и-на-искусство-ведения-бизнеса&#34;&gt;1. Все законы войны распространияются и на искусство ведения бизнеса&lt;/h2&gt;
+&lt;p&gt;Успех может ослепить менеджера, а поражение - заставить его думать, что виновы все и вся, но только не он.&lt;/p&gt;
+&lt;h2 id=&#34;2-если-ты-силен-то-покажи-слабость-если-ты-слаб---покажи-силу&#34;&gt;2. Если ты силен, то покажи слабость; если ты слаб - покажи силу.&lt;/h2&gt;
+&lt;p&gt;Если ты близко, то покажи, что ты далеко; если ты далеко - покажи, что близко. Действия и обстоятельства внутри фирмы должны быть скрыты от конкурентов, но при этом они должны думать, что все про нас знают.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Модель S.T.A.R.S. для оценки Soft-Skills</title>
       <link>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</link>
       <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/management/2019-09-08-starts-schema-interview/</guid>
-      <description>Situation Попроси рассказать кандидата о ситуации. Контекст, предпосылки и т.д.
-Task / Trouble Какую проблему увидел кандидат в ситуации, почему охарактеризовал ее проблемой.
-Actions Какие действия он предпринял для решения проблемы. Почему именно такие. Нужно задавать больше вопросов с How, Why, Who, которые побуждают к рассказу.
-Results / Roadblocks Каких результатов кандидат достиг своими действиями.
-Self-apprisal Как оцениает кандидат свои действия и результаты.Какие выводы он делает из сложившегося кейса. Что бы кандидат сделал сегодня иначе, если бы сделал.</description>
+      <description>&lt;h1 id=&#34;situation&#34;&gt;Situation&lt;/h1&gt;
+&lt;p&gt;Попроси рассказать кандидата о ситуации. Контекст, предпосылки и т.д.&lt;/p&gt;
+&lt;h1 id=&#34;task--trouble&#34;&gt;Task / Trouble&lt;/h1&gt;
+&lt;p&gt;Какую проблему увидел кандидат в ситуации, почему охарактеризовал ее проблемой.&lt;/p&gt;
+&lt;h1 id=&#34;actions&#34;&gt;Actions&lt;/h1&gt;
+&lt;p&gt;Какие действия он предпринял для решения проблемы. Почему именно такие. Нужно задавать больше вопросов с How, Why, Who, которые побуждают к рассказу.&lt;/p&gt;
+&lt;h1 id=&#34;results--roadblocks&#34;&gt;Results / Roadblocks&lt;/h1&gt;
+&lt;p&gt;Каких результатов кандидат достиг своими действиями.&lt;/p&gt;
+&lt;h1 id=&#34;self-apprisal&#34;&gt;Self-apprisal&lt;/h1&gt;
+&lt;p&gt;Как оцениает кандидат свои действия и результаты.Какие выводы он делает из сложившегося кейса. Что бы кандидат сделал сегодня иначе, если бы сделал.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

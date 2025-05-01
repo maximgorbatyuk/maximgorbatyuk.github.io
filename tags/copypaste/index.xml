@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>copypaste on mgorbatyuk.dev</title>
+    <title>Copypaste on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/copypaste/</link>
-    <description>Recent content in copypaste on mgorbatyuk.dev</description>
+    <description>Recent content in Copypaste on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/copypaste/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,11 @@
       <link>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/employment/2019-09-19-questions-for-company/</guid>
-      <description>Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал
-Работа и дружба Что способствует дружеским отношениям внутри вашей команды? Большинство людей не признают, что члены их команды не близки друг другу или им не хватает командной работы. Спрашивая о том, чем связана команда, вы получите четкое представление о том, насколько все дружелюбны и сплочены. Члены одной команды посещают конференции вместе, а члены другой были друзьями еще до того, как присоединиться к компании.</description>
+      <description>&lt;p&gt;Источник: habr.com, но ссылку утерял, а поиск по гуглу ничего не дал&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;работа-и-дружба&#34;&gt;Работа и дружба&lt;/h1&gt;
+&lt;h2 id=&#34;что-способствует-дружеским-отношениям-внутри-вашей-команды&#34;&gt;&lt;em&gt;Что способствует дружеским отношениям внутри вашей команды?&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;Большинство людей не признают, что члены их команды не близки друг другу или им не хватает командной работы. Спрашивая о том, чем связана команда, вы получите четкое представление о том, насколько все дружелюбны и сплочены. Члены одной команды посещают конференции вместе, а члены другой были друзьями еще до того, как присоединиться к компании. Возможно, вы узнаете о совместных социальных активностях и переработках.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

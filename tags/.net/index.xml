@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>.net on mgorbatyuk.dev</title>
+    <title>.Net on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/.net/</link>
-    <description>Recent content in .net on mgorbatyuk.dev</description>
+    <description>Recent content in .Net on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 Mar 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/.net/index.xml" rel="self" type="application/rss+xml" />
@@ -53,25 +53,28 @@
       <link>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</link>
       <pubDate>Sun, 07 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/development/2021-03-07-asp-net-azure-sb-queues/</guid>
-      <description>If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?
-Well, I know a minor life hack for my teams.</description>
+      <description>&lt;p&gt;If you work with Azure infrastructure and have to integrate message queues. It sounds quite simple: just create Azure Resource, write some code and then be happy! But what would you say if the resources are limited? What will you do if there are several teammates in your team, and all of you have to debug queues at the same time?&lt;/p&gt;
+&lt;p&gt;Well, I know a minor life hack for my teams. I create an InMemory Message queue engine for local development and use Azure Service Bus (or any other external MQ engine) only for remote environments. This solution allows me to not think about paid resources or concurrency access to the single development queue.&lt;/p&gt;</description>
     </item>
     <item>
       <title>How to accept and return snake case formatted JSON in ASP Web API</title>
       <link>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/development/2021-02-20-snake-case-and-asp-net-core/</guid>
-      <description>The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from camelCase to snake_case.
-The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues.</description>
+      <description>&lt;p&gt;The standard way to accept and return data in ASP.NET world is camel case. But at the current project, I was asked to change my ASP Web API application data processing format. I had to move all the JSON data format from &lt;code&gt;camelCase&lt;/code&gt; to &lt;code&gt;snake_case&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mgorbatyuk.dev/images/blog/development/2021-02-20-snake-case-and-asp-net-core/snake_vs_camel.jpg&#34; alt=&#34;Camel case vs Snake case&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;The reason for it was fact that we had to start developing React application as a SPA of our system. I thought that nothing will be a trouble, but I had met some issues. Now, I want to share with you my solution of how to make your ASP Web API and JSON in the Snake Case be the best friends.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Как не пропустить невалидный код в репозиторий</title>
       <link>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</link>
       <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/development/2020-02-16-how-to-reject-invalid-code/</guid>
-      <description>Эту же статью я опубликовал на habr.com.
-Зачем это необходимо Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков if...else, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.
-Чтобы код-ревью и прочие командные митинги не превратились в обсуждение tab vs spaces на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.</description>
+      <description>&lt;p&gt;Эту же статью я опубликовал на &lt;a href=&#34;https://habr.com/ru/post/488626/&#34;&gt;habr.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;зачем-это-необходимо&#34;&gt;Зачем это необходимо&lt;/h1&gt;
+&lt;p&gt;Когда в твоей команде работают больше одного человека, так или иначе все сталкиваются с проблемой разных стилей кодирования каждого члена команды. Кто-то пишет скобки для блоков &lt;code&gt;if...else&lt;/code&gt;, кто-то нет. Когда проект становится больше, то такой код труднее читать и еще сложнее проводить код-ревью.&lt;/p&gt;
+&lt;p&gt;Чтобы код-ревью и прочие командные митинги не превратились в обсуждение &lt;em&gt;tab vs spaces&lt;/em&gt; на повышенных тонах, лучше настроить репозиторий таким образом, чтобы сам проект не допускал написание невалидного и нестандартного для команды кода.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>thoughts on mgorbatyuk.dev</title>
+    <title>Thoughts on mgorbatyuk.dev</title>
     <link>https://mgorbatyuk.dev/tags/thoughts/</link>
-    <description>Recent content in thoughts on mgorbatyuk.dev</description>
+    <description>Recent content in Thoughts on mgorbatyuk.dev</description>
     <image>
       <title>mgorbatyuk.dev</title>
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.122.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Sep 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
@@ -18,9 +18,12 @@
       <link>https://mgorbatyuk.dev/blog/different/2019-09-29-was-ussr-education-really-good/</link>
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/blog/different/2019-09-29-was-ussr-education-really-good/</guid>
-      <description>Каждый раз, когда говорят, что &amp;ldquo;в советском союзе было самое лучшее образование в мире&amp;rdquo;, я в это несильно верю.
-Разница подходов образования Я не могу судить о западном школьном образовании, потому что я сам не учился в американской школе, однако могу сделать некоторые предположения на основе общеизвестной &amp;ldquo;болонской&amp;rdquo; системе образования в университетах и образовательных документальных видео американского производства.
-Западное образование строится на желании самого обучающегося. Американскому школьнику не дают знания в том объеме, в котором их дают советсткому.</description>
+      <description>&lt;p&gt;Каждый раз, когда говорят, что &amp;ldquo;в советском союзе было самое лучшее образование в мире&amp;rdquo;, я в это несильно верю.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://topwar.ru/uploads/posts/2019-08/thumbs/1565874608_i-kolhoznica.jpg&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;разница-подходов-образования&#34;&gt;Разница подходов образования&lt;/h1&gt;
+&lt;p&gt;Я не могу судить о западном школьном образовании, потому что я сам не учился в американской школе, однако могу сделать некоторые предположения на основе общеизвестной &amp;ldquo;болонской&amp;rdquo; системе образования в университетах и образовательных документальных видео американского производства.&lt;/p&gt;
+&lt;p&gt;Западное образование строится на желании самого обучающегося. Американскому школьнику не дают знания в том объеме, в котором их дают советсткому. Неужели американские учителя глупее советских? А если так, то почему США в 2019ом году еще существует, а СССР распался еще в начале девяностых?&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
