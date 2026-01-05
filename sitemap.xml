@@ -13,16 +13,10 @@
   </url><url>
     <loc>https://mgorbatyuk.dev/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>https://mgorbatyuk.dev/tags/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://mgorbatyuk.dev/ev-charging-tracker/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-  </url>
-  <url>
+  </url><url>
     <loc>https://mgorbatyuk.dev/blog/different/2025-05-01-learn-looking-on-others-fails/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -298,6 +292,10 @@
     <loc>https://mgorbatyuk.dev/archive/</loc>
   </url><url>
     <loc>https://mgorbatyuk.dev/categories/</loc>
+  </url><url>
+    <loc>https://mgorbatyuk.dev/ev-charging-tracker/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url><url>
     <loc>https://mgorbatyuk.dev/photography/</loc>
   </url><url>
