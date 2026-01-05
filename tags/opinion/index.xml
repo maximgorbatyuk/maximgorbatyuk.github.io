@@ -9,7 +9,7 @@
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.153.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Feb 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/opinion/index.xml" rel="self" type="application/rss+xml" />
@@ -22,7 +22,8 @@
 &lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Картинка взята &lt;a href=&#34;https://t.me/komikaki&#34;&gt;отсюда&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Очевидные вещи нужно проговаривать&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Очевидные вещи нужно проговаривать&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Так говорил мой тимлид, закончивший юрфак, но ушедший в айти. Говорил он так о процессах разработки: свод правил, по которым работает команда. Этакий кодекс программиста отдела N. Этот свод правил должен быть публичным и каждый должен знать, где его прочесть. Но зачем нужно описывать то, что и так всем известно? Давайте обсудим.&lt;/p&gt;
 &lt;p&gt;Правила работы в команде есть всегда, даже если они нигде не описаны и никем не проговорены. Так складывается исторически, что Ваня лучше знает платежи, Петя - как настроить тестовое окружение, а Юля - что делать, если нашел баг. И тот, кто уходит в отпуск, начинает получать сообщения в мессенджеры: &amp;ldquo;сорри что пишу, но &amp;hellip;..&amp;rdquo;. В такой среде легко допустить ошибку, особенно новичкам. Еще хуже, когда даже не знаешь, кого можно спросить в критичный момент.&lt;/p&gt;</description>
     </item>
