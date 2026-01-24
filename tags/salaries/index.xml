@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Salaries on mgorbatyuk.dev</title>
+    <link>https://mgorbatyuk.dev/tags/salaries/</link>
+    <description>Recent content in Salaries on mgorbatyuk.dev</description>
+    <image>
+      <title>mgorbatyuk.dev</title>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/salaries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Итоги 2025 года на Techinterview.space</title>
+      <link>https://mgorbatyuk.dev/blog/employment/2026-01-24-techinterview-results/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/employment/2026-01-24-techinterview-results/</guid>
+      <description>&lt;h1 id=&#34;новый-раздел-сайта&#34;&gt;Новый раздел сайта&lt;/h1&gt;
+&lt;p&gt;Прошедший год выдался продуктивным, и я решил подвести итоги, сравнив цифры декабря 2024 года и 2025. За прошедший год я ввел три крупных фичи:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Новый раздел сайта - &amp;ldquo;Отзывы на компании&amp;rdquo;, где любой может оставить анонимный отзыв. С момента ввода раздела пользователи написали 100 отзывов к 59 компаниям из 105 всего на 23 декабря 2025 года.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Я договорился с несколькими телеграм-сообществами об интеграции бота, который постит регулярно краткую сводку по медианам и при необходимости дает вывод.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

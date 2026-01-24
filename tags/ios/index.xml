@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ios on mgorbatyuk.dev</title>
+    <link>https://mgorbatyuk.dev/tags/ios/</link>
+    <description>Recent content in Ios on mgorbatyuk.dev</description>
+    <image>
+      <title>mgorbatyuk.dev</title>
+      <url>https://mgorbatyuk.dev/images/avatar.png</url>
+      <link>https://mgorbatyuk.dev/images/avatar.png</link>
+    </image>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mgorbatyuk.dev/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qazaq eline &#43;1 iOS developer</title>
+      <link>https://mgorbatyuk.dev/blog/development/2025-10-19-qazaq-eline-developer/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/development/2025-10-19-qazaq-eline-developer/</guid>
+      <description>Статья о том, как я пишу iOS приложение без знания Swift</description>
+    </item>
+  </channel>
+</rss>

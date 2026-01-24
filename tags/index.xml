@@ -11,13 +11,34 @@
     </image>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salaries</title>
+      <link>https://mgorbatyuk.dev/tags/salaries/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/salaries/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Techinterview</title>
+      <link>https://mgorbatyuk.dev/tags/techinterview/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/techinterview/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Development</title>
       <link>https://mgorbatyuk.dev/tags/development/</link>
-      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ios</title>
+      <link>https://mgorbatyuk.dev/tags/ios/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/ios/</guid>
       <description></description>
     </item>
     <item>
