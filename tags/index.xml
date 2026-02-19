@@ -9,10 +9,24 @@
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Development</title>
+      <link>https://mgorbatyuk.dev/tags/development/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pet-Projects</title>
+      <link>https://mgorbatyuk.dev/tags/pet-projects/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/pet-projects/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Salaries</title>
       <link>https://mgorbatyuk.dev/tags/salaries/</link>
@@ -25,13 +39,6 @@
       <link>https://mgorbatyuk.dev/tags/techinterview/</link>
       <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/tags/techinterview/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Development</title>
-      <link>https://mgorbatyuk.dev/tags/development/</link>
-      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mgorbatyuk.dev/tags/development/</guid>
       <description></description>
     </item>
     <item>

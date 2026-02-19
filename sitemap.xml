@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mgorbatyuk.dev/tags/development/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>https://mgorbatyuk.dev/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mgorbatyuk.dev/tags/pet-projects/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://mgorbatyuk.dev/blog/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://mgorbatyuk.dev/tags/salaries/</loc>
-    <lastmod>2026-01-24T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://mgorbatyuk.dev/tags/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mgorbatyuk.dev/blog/development/2026-02-19-how-to-build-pet-projects/</loc>
+    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mgorbatyuk.dev/tags/salaries/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
   </url>
   <url>
@@ -24,10 +36,6 @@
   <url>
     <loc>https://mgorbatyuk.dev/blog/employment/2026-01-24-techinterview-results/</loc>
     <lastmod>2026-01-24T00:00:00+00:00</lastmod>
-  </url>
-  <url>
-    <loc>https://mgorbatyuk.dev/tags/development/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url>
   <url>
     <loc>https://mgorbatyuk.dev/tags/ios/</loc>

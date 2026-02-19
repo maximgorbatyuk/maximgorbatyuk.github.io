@@ -9,10 +9,17 @@
       <url>https://mgorbatyuk.dev/images/avatar.png</url>
       <link>https://mgorbatyuk.dev/images/avatar.png</link>
     </image>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Как довести пет-проект до релиза</title>
+      <link>https://mgorbatyuk.dev/blog/development/2026-02-19-how-to-build-pet-projects/</link>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/development/2026-02-19-how-to-build-pet-projects/</guid>
+      <description>Пет-проекты умирают, когда ими никто не пользуется, а не пользуются ими потому, что не могут даже попробовать, ведь их не доводят до релиза. В статье разберем, как с этим быть и что делать</description>
+    </item>
     <item>
       <title>Qazaq eline &#43;1 iOS developer</title>
       <link>https://mgorbatyuk.dev/blog/development/2025-10-19-qazaq-eline-developer/</link>
