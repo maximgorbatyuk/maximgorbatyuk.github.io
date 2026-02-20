@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Bring Pet Projects to Market</title>
+      <link>https://mgorbatyuk.dev/blog/development/2026-02-20-how-to-build-pet-projects-en/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/development/2026-02-20-how-to-build-pet-projects-en/</guid>
+      <description>Pet projects often die because no one uses them, and no one uses them because they never reach release. In this article, I explain why that happens and what to do about it.</description>
+    </item>
     <item>
       <title>Как довести пет-проект до релиза</title>
       <link>https://mgorbatyuk.dev/blog/development/2026-02-19-how-to-build-pet-projects/</link>

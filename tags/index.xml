@@ -11,19 +11,26 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
       <link>https://mgorbatyuk.dev/tags/development/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Original</title>
+      <link>https://mgorbatyuk.dev/tags/original/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/tags/original/</guid>
       <description></description>
     </item>
     <item>
       <title>Pet-Projects</title>
       <link>https://mgorbatyuk.dev/tags/pet-projects/</link>
-      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/tags/pet-projects/</guid>
       <description></description>
     </item>
@@ -214,13 +221,6 @@
       <link>https://mgorbatyuk.dev/tags/employment/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://mgorbatyuk.dev/tags/employment/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Original</title>
-      <link>https://mgorbatyuk.dev/tags/original/</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://mgorbatyuk.dev/tags/original/</guid>
       <description></description>
     </item>
     <item>
