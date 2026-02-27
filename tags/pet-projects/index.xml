@@ -11,8 +11,15 @@
     </image>
     <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mgorbatyuk.dev/tags/pet-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI дает нам шанс думать глубже, а не больше</title>
+      <link>https://mgorbatyuk.dev/blog/opinion/2026-02-27-ai-allows-us-to-rest-more/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://mgorbatyuk.dev/blog/opinion/2026-02-27-ai-allows-us-to-rest-more/</guid>
+      <description>Небольшая заметка о том, что AI дал нам шанс меньше времени тратить на рутину, чтобы мы думали глубже, а не производили больше рутинных задач и тратили токены впустую.</description>
+    </item>
     <item>
       <title>How to Bring Pet Projects to Market</title>
       <link>https://mgorbatyuk.dev/blog/development/2026-02-20-how-to-build-pet-projects-en/</link>
